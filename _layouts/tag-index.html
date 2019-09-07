@@ -1,0 +1,27 @@
+---
+layout: tag
+description: |
+  Tagged articles in the blog of auraImmigration: about
+  software development, business, GST Ready application.
+exclude_from_search: true
+---
+
+<section itemscope="" itemtype="http://schema.org/BlogPosting">
+  <div class="wrapper">
+    <header itemprop="name">
+      {% if page.title == 'unknown' %}
+        <h1>unknown</h1>
+      {% else %}
+        <h1>{{ page.title }}</h1>
+      {% endif %}
+
+    </header>
+    <main>
+      <article itemprop="articleBody">
+        {% for post in page.posts %}
+          {{ post | tagged }}
+        {% endfor %}
+      </article>
+    </main>
+  </div>
+</section>

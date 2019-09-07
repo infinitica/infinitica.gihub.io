@@ -1,0 +1,57 @@
+{% if page.title %}
+{% assign title = page.title - site.author.name  %}
+{% else %}
+{% assign title = site.title  %}
+{% endif %}
+
+{% if paginator.page > 1 %}
+{% assign title = paginator.page  %}
+{% endif %}
+
+{% if page.description %}
+{% assign description = page.description | truncate: 160 %}
+{% else %}
+{% assign description = page.content | strip_html | xml_escape | strip_newlines | truncate: 160 %}
+{% endif %}
+
+<head>
+    <title>{{title}}</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta itemprop="name" content="{{ page.title }}" />
+    <meta itemprop="author" content="{{ site.author.name }}" />
+    <meta itemprop="breadcrumb" content="{{ site.url }}" />
+    <meta name="description" content="{{description}}" />
+    {% if page.keywords %}
+    <meta name="keywords" content="{{ page | keywords | join:', ' | xml_escape }}" />
+    {% endif %}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   
+
+    {% if page.url %}
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    {% endif %}
+    {% if page.og_image %}
+    <meta property="og:image" content="{{ site.url }}{{ page.og_image }}" />
+    {% endif %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../fonts/stylesheet.css"/>
+
+    <!-- new3 -->
+    <link href="/css/elements.css" rel="stylesheet" async="async">
+    <link rel="stylesheet" href="../css/lightbox.min.css"/>
+    <link href="/css/style.css?{{ site.data['hash'] }}" rel="stylesheet" async="async">
+    <link href="/css/responsive.css?{{ site.data['hash'] }}" rel="stylesheet" async="async">
+
+    <!-- new1 -->
+    <script src="/js/modernizr-2.8.3.min.js?{{ site.data['hash'] }}"  type="application/javascript"></script>
+
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" ></script>    -->
+
+    <!-- new3 -->
+    <script src="/js/plugins.js?{{ site.data['hash'] }}"  type="application/javascript"></script>
+    <script src="/js/main.js?{{ site.data['hash'] }}"  type="application/javascript"></script>
+    <script src="/js/lightbox.min.js?{{ site.data['hash'] }}"  type="application/javascript"></script>
+    <script src="/js/themera.js?{{ site.data['hash'] }}"  type="application/javascript"></script>
+</head>

@@ -1,0 +1,75 @@
+code,
+pre {
+  font-family: $code-font;
+  font-weight: 400;
+  @media all and (max-width: $width) {
+    font-family: 'Ubuntu Mono';
+    letter-spacing: -1px;
+  }
+}
+
+code {
+  background-color: $light-gray;
+  line-height: $em;
+  padding: 0 .3 * $em;
+}
+
+.highlight {
+  border-left: 3px solid $light-gray;
+  margin-left: 2 * $em;
+  padding-left: .5 * $em !important;
+  @media all and (max-width: $width) {
+    border-left: 0;
+    margin-left: 0;
+    overflow-x: auto;
+    padding-left: 0 !important;
+  }
+
+  .kn,
+  .kd,
+  .kt {
+    font-weight: bold;
+  }
+
+  .c1 {
+    color: $dark-gray;
+  }
+}
+
+.highlighttable {
+  border-spacing: 0;
+  table-layout: fixed;
+  width: 100%;
+
+  .linenos {
+    @extend %gray;
+    @extend %desktop-only;
+    min-width: 2 * $em;
+    padding-right: 2px;
+    text-align: right;
+    width: 2 * $em;
+  }
+
+  .highlight {
+    margin-left: 0;
+  }
+
+  @media all and (max-width: $width) {
+    overflow-x: auto;
+  }
+}
+
+pre {
+  display: block;
+  font-size: .9 * $em;
+  line-height: 1.2 * $em;
+
+  code {
+    background-color: inherit;
+    padding: 0;
+  }
+
+  @media all and (max-width: $width) {
+    line-height: 1.2 * $em;
+  }
+}

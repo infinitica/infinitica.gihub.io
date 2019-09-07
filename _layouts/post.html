@@ -1,0 +1,149 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US" itemscope="" itemtype="http://schema.org/WebPage">
+{% include head.html %}
+<body  {% if page.id %} id="{{page.id}}" {% endif %} {% if page.class %} class="{{page.class}}" {% endif %}>
+<main>
+    {% include header.html %}
+    {% include share.html %}
+    <section class="blog-banner">
+        <p class="bb-img">{{page.main_image}}</p>
+    </section>
+
+    <section class="inner-content-page">
+        <div class="ui container">
+            <div class="ui grid row">
+                <div class="set_aside sixteen wide tablet eleven wide computer column">
+                    <div class="innerpage-header-title">
+                        <h2>{{page.title}}</h2>
+                    </div>
+
+                    <ul class="post-detail">
+                        {% if page.date %}
+                        <li>
+                            <i class="fa fa-clock-o" aria-hidden="true"></i>
+                            <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">
+                                {{ page.date | date: "%-d %B %Y" }}
+                            </time>
+                        </li>
+                        {% endif %}
+                        {% if page.place %}
+                        <li class="desktop-only">{{ page.place }}</li>
+                        {% endif %}
+                        {{ page | modified }}
+                        <li class="unprintable">
+                            <i class="comment icon"></i>
+                            <a href="{{ site.url }}{{ page.url }}#disqus_thread" itemprop="discussionUrl">comments</a>
+                        </li>
+                    </ul>
+                    {% if page.translated %}
+                    <ul class="unprintable subline">
+                        <li>translated:</li>
+                        {% for hash in page.translated %}
+                        {% for link in hash %}
+                        <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+                        {% endfor %}
+                        {% endfor %}
+                        <li><a href="mailto:support@auraImmigration.com">add yours!</a></li>
+                    </ul>
+                    {% endif %}
+                    {% if page.tags %}
+                    <p class="blog-tag">{{ page | tags }}</p>
+                    {% endif %}
+
+                    <div class="inner-canvas">
+
+                    {{ content }}
+
+                    </div>
+
+
+
+                </div>
+
+
+
+                {% if page.index %}
+                <aside class="aside-fx sixteen wide tablet five wide computer column">
+                    <ul>
+                        {% for link in page.index %}
+                        {% for item in link %}
+                        <li><a href="#{{ item[0] }}">{{item[1]}}</a></li>
+                        {% endfor %}
+                        {% endfor %}
+                    </ul>
+                </aside>
+                {% endif %}
+
+                <div class="sixteen wide tablet four wide computer column custom-sidebar">
+                    <div class="categories-side related-post">
+                        <related-posts />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="disqus" role="complementary">
+            <div id="disqus_thread" class="disqus-thread"></div>
+            <script>
+                var disqus_config = function () {
+                    this.page.url = document.location.href.split('?')[0].split('#')[0];
+                    this.page.identifier = this.page.url;
+                };
+                (function() {
+                    var d = document, s = d.createElement('script');
+                    s.src = '//www-auraImmigration-com.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
+            <noscript>
+                <div>
+                    <p class="red">
+                        JavaScript is disabled in your browser,
+                        that's why you can't see comments under this post.
+                    </p>
+                </div>
+            </noscript>
+        </div>
+    </section>
+
+    {% include footer.html %}
+</main>
+
+
+<script src="/js/all.js?{{ site.data['hash'] }}" type="application/javascript" async></script>
+{% if page.script %}
+<script>
+    {{ page.script }}
+</script>
+{% endif %}
+
+<script>vardisqus_shortname = 'www-auraImmigration-com';</script>
+
+
+<script id="dsq-count-scr" src="//www-auraImmigration-com.disqus.com/count.js" async="async"></script>
+
+<script language="javascript" type="text/javascript">
+    Cd=document;Cr="&"+Math.random();Cp="&s=1";
+    Cd.cookie="b=b";if(Cd.cookie)Cp+="&c=1";
+    Cp+="&t="+(new Date()).getTimezoneOffset();
+    if(self!=top)Cp+="&f=1";
+</script>
+<script language="javascript1.1" type="text/javascript">
+    if(navigator.javaEnabled())Cp+="&j=1";
+</script>
+<script language="javascript1.2" type="text/javascript">
+    if(typeof(screen)!='undefined')Cp+="&w="+screen.width+"&h="+
+        screen.height+"&d="+(screen.colorDepth?screen.colorDepth:screen.pixelDepth);
+</script>
+<script language="javascript" type="text/javascript">
+    Cd.write("<img src='//c.hit.ua/hit?i=95870&g=0&x=2"+Cp+Cr+
+        "&r="+escape(Cd.referrer)+"&u="+escape(window.location.href)+
+        "' border='0' wi"+"dth='1' he"+"ight='1'/>");
+</script>
+
+
+</body>
+</html>

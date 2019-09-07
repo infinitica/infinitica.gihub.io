@@ -1,0 +1,75 @@
+.youtube {
+  @extend %unprintable;
+  margin-bottom: 2 * $em;
+  margin-top: 2 * $em;
+  text-align: left;
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+
+    li {
+      @extend %clear;
+      border-left: 4px solid #e52d27;
+      margin-bottom: $em;
+      min-height: 80px;
+      padding-left: $em;
+
+      img {
+        float: left;
+        height: 80px;
+        margin-right: 1em;
+      }
+    }
+  }
+}
+
+.buttons {
+  @extend %unprintable;
+
+  .share {
+    a,
+    a:visited {
+      text-decoration: none;
+    }
+
+    a {
+      position: relative;
+
+      .count {
+        background-color: $white;
+        border: 1px solid $gray;
+        color: $gray;
+        display: none;
+        font-family: $code-font;
+        font-size: .6 * $em;
+        line-height: .7 * $em;
+        padding: 0 .2 * $em;
+        position: absolute;
+        right: .3 * $em;
+        top: -.7 * $em;
+      }
+
+      .icon {
+        $size: 1.2;
+        border: 1px solid $gray;
+        border-radius: 50%;
+        color: $gray;
+        display: inline-block;
+        height: $size * $em;
+        line-height: $size * $em;
+        margin-bottom: .2 * $em;
+        margin-right: .2 * $em;
+        padding: .4 * $size * $em;
+        text-align: center;
+        vertical-align: middle;
+        width: $size * $em;
+
+        &:hover {
+          background-color: $gray;
+          color: $white;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US" itemscope="" itemtype="http://schema.org/WebPage">
+{% include head.html %}
+<body  {% if page.id %} id="{{page.id}}" {% endif %} {% if page.class %} class="{{page.class}}" {% endif %}>
+<main>
+  {% include header.html %}
+
+
+  <section class="inner-content-page">
+    <div class="ui container">
+      <div class="ten wide column"></div>
+      <div class="ui grid row">
+        <div class="sixteen wide tablet sixteen wide computer column">
+          <div class="inner-canvas">
+  {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% include footer.html %}
+</main>
+<script id="dsq-count-scr" src="//www-auraImmigration-com.disqus.com/count.js" async="async"></script>
+</body>
+</html>

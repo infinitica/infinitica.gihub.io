@@ -1,0 +1,76 @@
+name: auraimmigration.com
+url: https://www.auraimmigration.com
+title: "Immigration Consulting"
+author:
+  name: "AuraImmigration"
+  email: support@auraimmigration.com
+description: "Immigration Consulting"
+copyright: "(c) Aura Immigration, 2018"
+encoding: utf-8
+timezone: Asia/Calcutta
+markdown: kramdown
+highlighter: rouge
+redcarpet:
+  extensions:
+    - no_intra_emphasis
+    - fenced_code_blocks
+    - autolink
+    - tables
+    - with_toc_data
+permalink: blog/:year/:month/:day/:title.html
+paginate: 10
+paginate_path: "/blog/page:num"
+excerpt_separator: <!--more-->
+exclude:
+  - README.md
+  - LICENSE.txt
+  - Gemfile.lock
+  - Gemfile
+  - Rakefile
+  - httpd.conf
+  - id_rsa.enc
+  - s3cfg.enc
+  - uml
+  - node_modules
+  - vendor
+  - vagrant
+  - Vagrantfile
+  - semantic
+  - bin
+  - dist/components
+  - dist/semantic.js
+  - dist/semantic.css
+
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-plantuml
+  - jekyll-sitemap
+  - jekyll-related-posts
+
+# see https://github.com/alfanick/jekyll-related-posts
+related:
+  max_count: 5
+  min_score: 0.1
+  accuracy: 0.75
+
+# jekyll-feed
+feed:
+  title: Auraimmigration.com
+  subtitle: Business, TAX, GST Blog
+  path: rss.xml
+
+sass:
+  style: compressed
+  deploy_style: compressed
+  compile_in_place: false
+
+# see https://github.com/pattex/jekyll-tagging
+tag_page_layout: tag-index
+tag_page_dir: tag
+
+# http://jch.penibelst.de/
+compress_html:
+  clippings: [div, p, ul, td, h1, h2]
+  comments: all
+  endings: all

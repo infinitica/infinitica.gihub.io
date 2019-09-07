@@ -1,0 +1,57 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US" itemscope="" itemtype="http://schema.org/WebPage">
+{% include head.html %}
+<body  {% if page.id %} id="{{page.id}}" {% endif %} {% if page.class %} class="{{page.class}}" {% endif %}>
+<main>
+  {% include header.html %}
+  <section class="blog-banner">
+    <p class="bb-img">{{page.main_image}}</p>
+    <div class="ui container">
+      <div class="blog-title">
+        <h1><i class="file text outline icon"></i>{{page.title}}</h1>
+      </div>
+    </div>
+  </section>
+  
+
+  <section class="inner-content-page">
+    <div class="ui container">
+      <div class="ten wide column"></div>
+      <div class="ui grid row">
+        <div class="sixteen wide tablet eleven wide computer column">
+          <div class="inner-canvas">
+  {{ content }}
+          </div>
+        </div>
+        <div class="sixteen wide tablet five wide computer column">
+          {% if page.id == 'support' %}
+          <div class="side-right-banner">
+            <h2>Would you rather speak to a human?</h2>
+              <p><i class="mail outline icon"></i> <a href="mailto:support@auraImmigration.com"> support@auraImmigration.com</a></p>
+              <p><large><a href="tel:+15103150730"><span>+1</span>-</a></large> <small>Call Us for sales Inquiry</small></p>
+          </div>
+          {% elsif page.id == 'contact' %}
+          <div class="side-right-banner">
+            <h2></h2>
+            <p><i class="address card outline icon"></i></p>
+          </div>
+
+          <div class="side-right-banner">
+            <h2>auraImmigration  <small></small></h2>
+            <p><i class="address card outline icon"></i></p>
+          </div>
+          {% endif %}
+
+      </div>
+    </div>
+    </div>
+  </section>
+
+  {% include footer.html %}
+</main>
+
+</body>
+</html>

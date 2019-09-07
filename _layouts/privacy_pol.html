@@ -1,0 +1,33 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US" itemscope="" itemtype="http://schema.org/WebPage">
+{% include head.html %}
+<body  {% if page.id %} id="{{page.id}}" {% endif %} {% if page.class %} class="{{page.class}}" {% endif %}>
+<main>
+  {% include header.html %}
+  <section class="blog-banner ">
+    <p class="bb-img">{{page.main_image}}</p>
+    <div class="ui container">
+      <div class="blog-title">
+        <p class="heading_banner thin_head">{{page.title}}</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="ui vertical stripe  pad_140 privacy_pol" >
+      <div class="ui container">
+          <div class="ui grid">
+                  <div class="sixteen wide  mobile column">
+                      {{ content }} 
+                  </div>
+          </div>
+      </div>
+  </div>
+
+  {% include footer.html %}
+</main>
+
+</body>
+</html>

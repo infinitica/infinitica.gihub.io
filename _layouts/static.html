@@ -1,0 +1,48 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US" itemscope="" itemtype="http://schema.org/WebPage">
+{% include head.html %}
+<body  {% if page.id %} id="{{page.id}}" {% endif %} {% if page.class %} class="{{page.class}}" {% endif %}>
+<main>
+  {% include header.html %}
+  <!-- <section class="blog-banner">
+    <p class="bb-img">{{page.main_image}}</p>
+    <div class="ui container">
+      <div class="blog-title">
+        <p class="heading_banner thin_head">{{page.title}}</p>
+      </div>
+    </div>
+  </section>
+  {{ content }}
+ -->
+
+ <div class="fixed-header-space"></div>
+  <div class="content">
+      <!-- Breadcrumb area start -->
+      <div class="breadcrumb-area gray-bg">
+          <div class="container">
+              <div class="row">
+                  <div class="col-xs-12">
+                      <div class="breadcrumb-content">
+                          <div class="breadcrumb-text-wrapper">
+                              <h2 class="page-name">{{page.title}}</h2>
+                              <p>{{page.subtitle}}</p>
+                          </div>
+                          <ul class="breadcrumb-list">
+                              <li><a href="index.html">Home</a></li>
+                              <li>{{page.pagename}}</li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+     {{ content }}
+  </div>
+  {% include footer.html %}
+</main>
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>auraImmigration</ShortName>
+  <Description>search AuraImmigration.com</Description>
+  <Tags></Tags>
+  <Contact>me@tarunjangra.com</Contact>
+  <Url type="application/atom+xml" template="https://www.AuraImmigration.com/?q={searchTerms}&amp;format=atom"/>
+  <Url type="application/rss+xml" template="https://www.auraImmigration.com/?q={searchTerms}&amp;format=rss"/>
+  <Url type="text/html" template="https://www.auraImmigration.com/?q={searchTerms}"/>
+  <LongName>auraImmigration: GST Billing Software</LongName>
+  <Image height="128" width="128" type="image/png">https://www.auraImmigration.com/favicon.ico</Image>
+  <Developer>auraImmigration </Developer>
+  <Attribution>Copyright 2019, auraImmigration, All Rights Reserved</Attribution>
+  <Query role="example" searchTerms="java"/>
+  <SyndicationRight>open</SyndicationRight>
+  <AdultContent>false</AdultContent>
+  <Language>en-us</Language>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>

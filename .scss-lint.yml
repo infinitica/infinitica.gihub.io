@@ -1,0 +1,17 @@
+scss_files: '**/*.scss'
+
+exclude: 'css/layout.scss'
+
+linters:
+  NestingDepth:
+    enabled: false
+  SelectorDepth:
+    enabled: false
+  ImportantRule:
+    enabled: false
+  UrlFormat:
+    enabled: false
+  ColorVariable:
+    exclude:
+      - '_sass/_ico.scss'
+      - '_sass/_post.scss'

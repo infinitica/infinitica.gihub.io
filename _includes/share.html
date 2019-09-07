@@ -1,0 +1,32 @@
+{% if page.tw_txt_to_be_shared %}
+  {% assign tw_txt_to_share = page.tw_txt_to_be_shared %}
+{% else %}
+  {% assign tw_txt_to_share = page.title %}
+{% endif %}
+
+{% if page.gp_txt_to_be_shared %}
+  {% assign gp_txt_to_share = page.gp_txt_to_be_shared %}
+{% else %}
+  {% assign gp_txt_to_share = page.title %}
+{% endif %}
+
+<nav class="share" role="navigation">
+    <a class="facebook-link" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"
+       title="Share on Facebook" class="button">
+        <span class="count count-facebook">0</span>
+        <i  class="facebook f icon" aria-hidden="true"></i>
+    </a>
+    <a class="twitter-link" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&amp;text={{tw_txt_to_share | cgi_escape}}{{page.hashtags}}&amp;via=auraImmigration" title="Share on Twitter" class="button">
+        <span class="count count-twitter">0</span>
+        <i class="twitter icon" aria-hidden="true"></i>
+    </a>
+    <a class="google-link" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}&amp;text={{gp_txt_to_share | cgi_escape}}" title="Share on Google+" class="button">
+        <span class="count count-googleplus">0</span>
+        <i class="google plus icon"></i>
+    </a>
+    <a class="linked-link" href="https://www.linkedin.com/cws/share?url={{ site.url }}{{ page.url }}"
+       title="Share on LinkedIn" class="button">
+        <span class="count count-linkedin">0</span>
+        <i class="linkedin icon" aria-hidden="true"></i>
+    </a>
+</nav>
