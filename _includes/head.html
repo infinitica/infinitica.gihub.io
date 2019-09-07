@@ -54,4 +54,12 @@
     <script src="/js/main.js?{{ site.data['hash'] }}"  type="application/javascript"></script>
     <script src="/js/lightbox.min.js?{{ site.data['hash'] }}"  type="application/javascript"></script>
     <script src="/js/themera.js?{{ site.data['hash'] }}"  type="application/javascript"></script>
+    <script>
+      $( document ).ready(function() {
+        $('.meanmenu-reveal').click(function(){
+            $('.mean-bar nav ul').toggle(400);
+        });
+    });
+       
+    </script>
 </head>

@@ -13,7 +13,10 @@ body {
     max-width: 100%;
     transition: all 0.3s ease-out 0s;
 }
-
+.infinitica-h2{
+ font-size: 26px;
+ font-weight: bold;
+}
 a,
 .button {
     -webkit-transition: all 0.3s ease-out 0s;
@@ -2348,7 +2351,7 @@ blockquote {
 }
 
 .counter-area {
-    background: rgba(0, 0, 0, 0) url("images/bg/2.jpg") repeat fixed center center / cover;
+    background: rgba(0, 0, 0, 0) url("../images/bg/2.jpg") repeat fixed center center / cover;
 }
 
 .black-bg {

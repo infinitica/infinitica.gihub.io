@@ -346,6 +346,12 @@
 ---------------------------------------------------*/
 
 @media (max-width: 767px) {
+    .mean-container .mean-nav{
+        margin-top: 50px;
+    }
+    .mean-container .mean-nav ul li:last-child a {
+        border-bottom: 1px solid #999;
+    }
     .container {
         width: 100%
     }
