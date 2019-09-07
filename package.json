@@ -1,7 +1,7 @@
 {
-  "name": "www.auraImmigration.com",
+  "name": "www.infinitica.com",
   "version": "1.0.0",
-  "description": "www.auraImmigration on jekyll",
+  "description": "www.infinitica on jekyll",
   "main": "index.js",
   "dependencies": {
     "cssshrink": "0.0.5",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@labs.izap.in:tarunjangra/www.auraImmigration.com.git"
+    "url": "git@labs.izap.in:tarunjangra/www.infinitica.com.git"
   },
   "keywords": [
     "jekyll",

@@ -1,9 +1,9 @@
-name: auraimmigration.com
-url: https://www.auraimmigration.com
+name: infinitica.com
+url: https://www.infinitica.com
 title: "Immigration Consulting"
 author:
-  name: "AuraImmigration"
-  email: support@auraimmigration.com
+  name: "infinitica"
+  email: support@infinitica.com
 description: "Immigration Consulting"
 copyright: "(c) Aura Immigration, 2018"
 encoding: utf-8
@@ -56,7 +56,7 @@ related:
 
 # jekyll-feed
 feed:
-  title: Auraimmigration.com
+  title: infinitica.com
   subtitle: Business, TAX, GST Blog
   path: rss.xml
 
