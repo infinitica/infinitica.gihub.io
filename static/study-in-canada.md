@@ -14,7 +14,7 @@ The number of international students studying in Canada is over 300,000, a figur
 
 Individuals who study in Canada receive a top-quality and internationally-respected education, preparing them for professional pursuits in Canada or abroad. Yet, the cost of tuition and living fees in Canada are generally lower than in other developed countries.
 
-Infinitica Immigration and his team of specialists will be happy to help you determine exactly what your best options are to achieve your goals for studying in Canada,. Contact us for free Assessment of your Application. and we will guide you in achieving your objectives.
+theinfinitica Immigration and his team of specialists will be happy to help you determine exactly what your best options are to achieve your goals for studying in Canada,. Contact us for free Assessment of your Application. and we will guide you in achieving your objectives.
 
 #### What options are available for studying in Canada?
 

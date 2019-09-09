@@ -25,7 +25,7 @@ module Yegor
       if count > 1
         date = Time.parse(`git log -n 1 --date=iso --format=%ad #{path}`.strip)
         if date > page['date']
-          "<li class='unprintable desktop-only'><a href='http://labs.izap.in/izap/www.infinitica.com/blob/master/#{path}'>modified</a>\
+          "<li class='unprintable desktop-only'><a href='http://labs.izap.in/izap/www.theinfinitica.com/blob/master/#{path}'>modified</a>\
           on <time itemprop='dateModified' datetime='#{date.strftime('%Y-%m-%dT%H:%M:%S%z')}'>#{date.strftime('%-d %B %Y')}</time></li>"
         end
       end

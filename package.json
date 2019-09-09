@@ -1,7 +1,7 @@
 {
-  "name": "www.infinitica.com",
+  "name": "www.theinfinitica.com",
   "version": "1.0.0",
-  "description": "www.infinitica on jekyll",
+  "description": "www.theinfinitica on jekyll",
   "main": "index.js",
   "dependencies": {
     "cssshrink": "0.0.5",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@labs.izap.in:tarunjangra/www.infinitica.com.git"
+    "url": "git@labs.izap.in:tarunjangra/www.theinfinitica.com.git"
   },
   "keywords": [
     "jekyll",

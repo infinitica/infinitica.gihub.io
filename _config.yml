@@ -1,11 +1,11 @@
-name: infinitica.com
-url: https://www.infinitica.com
+name: theinfinitica.com
+url: https://www.theinfinitica.com
 title: "Immigration Consulting"
 author:
-  name: "infinitica"
-  email: support@infinitica.com
+  name: "theinfinitica"
+  email: support@theinfinitica.com
 description: "Immigration Consulting"
-copyright: "(c) Infinitica, 2018"
+copyright: "(c) theinfinitica, 2018"
 encoding: utf-8
 timezone: Asia/Calcutta
 markdown: kramdown
@@ -56,7 +56,7 @@ related:
 
 # jekyll-feed
 feed:
-  title: infinitica.com
+  title: theinfinitica.com
   subtitle: Business, TAX, GST Blog
   path: rss.xml
 

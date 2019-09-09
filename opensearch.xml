@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-  <ShortName>infinitica</ShortName>
-  <Description>search infinitica.com</Description>
+  <ShortName>theinfinitica</ShortName>
+  <Description>search theinfinitica.com</Description>
   <Tags></Tags>
   <Contact>me@tarunjangra.com</Contact>
-  <Url type="application/atom+xml" template="https://www.infinitica.com/?q={searchTerms}&amp;format=atom"/>
-  <Url type="application/rss+xml" template="https://www.infinitica.com/?q={searchTerms}&amp;format=rss"/>
-  <Url type="text/html" template="https://www.infinitica.com/?q={searchTerms}"/>
-  <LongName>infinitica: GST Billing Software</LongName>
-  <Image height="128" width="128" type="image/png">https://www.infinitica.com/favicon.ico</Image>
-  <Developer>infinitica </Developer>
-  <Attribution>Copyright 2019, infinitica, All Rights Reserved</Attribution>
+  <Url type="application/atom+xml" template="https://www.theinfinitica.com/?q={searchTerms}&amp;format=atom"/>
+  <Url type="application/rss+xml" template="https://www.theinfinitica.com/?q={searchTerms}&amp;format=rss"/>
+  <Url type="text/html" template="https://www.theinfinitica.com/?q={searchTerms}"/>
+  <LongName>theinfinitica: GST Billing Software</LongName>
+  <Image height="128" width="128" type="image/png">https://www.theinfinitica.com/favicon.ico</Image>
+  <Developer>theinfinitica </Developer>
+  <Attribution>Copyright 2019, theinfinitica, All Rights Reserved</Attribution>
   <Query role="example" searchTerms="java"/>
   <SyndicationRight>open</SyndicationRight>
   <AdultContent>false</AdultContent>

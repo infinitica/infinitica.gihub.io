@@ -512,7 +512,7 @@
                     }
                 ]
             };
-            var contentString = '<h2>infinitica.</h2>';
+            var contentString = '<h2>theinfinitica.</h2>';
 
             var infowindow = new google.maps.InfoWindow({
                 content: contentString
@@ -529,7 +529,7 @@
             var marker = new google.maps.Marker({
                 position: new google.maps.LatLng(40.6700, -73.9400),
                 map: map,
-                title: 'infinitica'
+                title: 'theinfinitica'
             });
             infowindow.open(map, marker);
         }
