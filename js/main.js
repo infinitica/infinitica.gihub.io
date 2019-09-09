@@ -31,44 +31,47 @@
     /*--------------------------------------------------
     01. PORTFOLIO ACTIVATION
     ---------------------------------------------------*/
-    $('.portfolio-content').imagesLoaded(function() {
-        // PORTFOLIO ACTIVATION
-        var $grid = $('.portfolio-masonry');
-        $grid.isotope({
-            itemSelector: '.portfolio-item',
-            percentPosition: true,
-        });
-        // PORTFOLIO FILTERING ACTIVATION
-        $('.portfolio-filter li a').on('click', function(event) {
-            var filterValue = $(this).attr('data-filter');
-            $grid.isotope({ filter: filterValue });
-            event.preventDefault();
-        });
-        // FILTER MENU CLASS ADDITION  
-        $('.portfolio-filter li').on('click', function(event) {
-            $(this).siblings('.active').removeClass('active');
-            $(this).addClass('active');
-            event.preventDefault();
-        });
-        /* ---------------------------------------------------
-         PORTFOLIO FILTERING RANDOM
-         ---------------------------------------------------- */
-        $('.btn-shuffle').on('click', function () {
-            $grid.isotope('updateSortData').isotope({
-                sortBy: 'random'
+    $( document ).ready(function() {
+        $('.portfolio-content').imagesLoaded(function() {
+            // PORTFOLIO ACTIVATION
+            var $grid = $('.portfolio-masonry');
+            $grid.isotope({
+                itemSelector: '.portfolio-item',
+                percentPosition: true,
             });
-        });        
-        /*--------------------------------------------------
-        LOAD MORE BUTTON FOR PORTFOLIO
-        ---------------------------------------------------*/
-        $('.portfolio-content').on('click', '.lode-more', function(event) {
-            $('.portfolio-item').removeClass('hidden');
-            $grid.isotope();
-            $(this).hide();
-            $('.pagination-area .load-more').append('<a class="button" href="javascript:void(0)">No More Items</a>');
-            event.preventDefault();
+            // PORTFOLIO FILTERING ACTIVATION
+            $('.portfolio-filter li a').on('click', function(event) {
+                var filterValue = $(this).attr('data-filter');
+                $grid.isotope({ filter: filterValue });
+                event.preventDefault();
+            });
+            // FILTER MENU CLASS ADDITION  
+            $('.portfolio-filter li').on('click', function(event) {
+                $(this).siblings('.active').removeClass('active');
+                $(this).addClass('active');
+                event.preventDefault();
+            });
+            /* ---------------------------------------------------
+             PORTFOLIO FILTERING RANDOM
+             ---------------------------------------------------- */
+            $('.btn-shuffle').on('click', function () {
+                $grid.isotope('updateSortData').isotope({
+                    sortBy: 'random'
+                });
+            });        
+            /*--------------------------------------------------
+            LOAD MORE BUTTON FOR PORTFOLIO
+            ---------------------------------------------------*/
+            $('.portfolio-content').on('click', '.lode-more', function(event) {
+                $('.portfolio-item').removeClass('hidden');
+                $grid.isotope();
+                $(this).hide();
+                $('.pagination-area .load-more').append('<a class="button" href="javascript:void(0)">No More Items</a>');
+                event.preventDefault();
+            });
         });
     });
+   
     /*--------------------------------------------------
     02. BLOG ACTIVATION
     ---------------------------------------------------*/
