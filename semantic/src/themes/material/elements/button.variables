@@ -14,7 +14,7 @@
 @verticalPadding   : 0.8em;
 @horizontalPadding : 0.8em;
 @borderRadius      : @relative3px;
-@color             : #222222;
+@color             : #dd9678222;
 @fontWeight        : normal;
 @textTransform     : none;
 
@@ -46,7 +46,7 @@
 
 @downBackgroundColor: @white;
 @downBackgroundImage: linear-gradient(rgba(0, 0, 0, 0.04), rgba(0, 0, 0, 0.04));
-@downTextColor: #222222;
+@downTextColor: #dd9678222;
 @downBoxShadow: @borderBoxShadow;
 
 @activeBackgroundColor: #F0F0F0;

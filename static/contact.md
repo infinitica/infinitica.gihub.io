@@ -12,37 +12,10 @@ description: |
  <div class="wpsuptr-standard-row contact-section contact-style-2">
           <div class="container">
               <div class="row">
-                  <div class="col-md-8 col-md-push-4">
-                      <div class="section-title text-left">
-                          <h2 class="area-title">Contact</h2>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro labore ab voluptatem.
-                              Ut obcaecati quasi ullam, eaque deserunt, itaque soluta!</p>
-                      </div>
-                      <form id="wpsuptr-contact-form" action="php/mail.php" method="POST" name="wpsuptr_message_form" class="contcat-form">
-                          <div class="form-head">
-                              <div class="single-input">
-                                  <input type="text" name="name" placeholder="Name" required="">
-                              </div>
-                              <div class="single-input">
-                                  <input type="email" name="email" placeholder="Email" required="">
-                              </div>
-                          </div>
-                          <div class="form-head">
-                              <div class="single-input">
-                                  <input type="text" name="phone" placeholder="Phone">
-                              </div>
-                              <div class="single-input">
-                                  <input type="text" name="subject" placeholder="Subject" required="">
-                              </div>
-                          </div>
-                          <div class="form-body">
-                              <textarea name="message" class="text-area" cols="30" rows="10" placeholder="Message" required=""></textarea>
-                          </div>
-                          <button class="button-boxed" type="submit" value="submit">Send message <i class="ti-arrow-right"></i></button>
-                          <p class="wpsuptr-send-message"></p>
-                      </form>
+                  <div class="col-md-7 text-left">
+                      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfSwhUCnesLnHglO6qrGrFvjJsr6vW3bDLINSIBnyBJ_tzrpQ/viewform?embedded=true" width="690" height="885" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
                   </div>
-                  <div class="col-md-4 col-md-pull-8">
+                  <div class="col-md-5">
                       <div class="contact-widget-wrap">
                           <div class="contact-sub-heading">
                               <h5>Get in Touch</h5>
