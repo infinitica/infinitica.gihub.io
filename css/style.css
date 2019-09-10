@@ -24,7 +24,40 @@ body {
     box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37);
     border-top: 7px solid #ed218d;
     border-radius: 5px;
+    float: left;
+    width: 100%;
 }
+.contact-widget-wrap .social-bookmark-area>ul {
+    float: left;
+    width: 100%;
+    margin: 15px 0 30px 0;
+}
+.contact-widget-wrap .social-bookmark-area {
+    margin: 30px 0 10px 0;
+    float: left;
+    width: 100%;
+}
+.contact-widget-wrap .social-bookmark-area>ul a{
+color:#888;
+}
+.contact-widget-wrap .social-bookmark-area li:first-child {
+    border-left: medium none;
+}
+
+.contact-widget-wrap .social-bookmark-area li {
+    border-left: 1px solid #e5e5e5;
+    padding: 0 20px;
+}
+.contact-widget-wrap .social-bookmark-area li+li {
+    margin-left: unset;
+}
+
+.contact-widget-wrap .social-bookmark-area li {
+    border-left: 1px solid #e5e5e5;
+    padding: 0 20px;
+}
+
+
 .main-logo{
     max-width: 100px;
 }
@@ -1923,7 +1956,7 @@ blockquote {
 ---------------------------------*/
 
 .breadcrumb-area {
-    padding: 70px 0;
+    padding: 50px 0;
 }
 
 .breadcrumb-text-wrapper {
@@ -2386,6 +2419,16 @@ blockquote {
 .prising-wrapper {
     margin-top: 20px;
 }
+.price-table-area .section-title .text-price {
+    background-color: #f8f8f8;
+    padding: 40px;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 20px;
+}
+.price-table-area .section-title .text-price div {
+    margin-top: 30px;
+}
 
 .single-price-table {
     background: #f5f5f5 none repeat scroll 0 0;
@@ -2785,9 +2828,9 @@ blockquote {
 ------------------------------*/
 
 .single-service {
-    text-align: left;
+    text-align: center;
     background: #fff;
-    padding: 30px;
+    padding: 15px;
 }
 
 .single-service.text-left {
@@ -2798,18 +2841,33 @@ blockquote {
 .service-header {
     overflow: hidden;
 }
-
+.icon-img{
+    height: 100px;
+    width: 100px;
+    background: #ddd;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50px;
+    line-height: 100px;
+}
 .service-header h3 {
-    display: block;
-    font-size: 18px;
+    display: inline-block;
+    font-size: 12px;
     font-weight: 600;
+    margin: 0;
+    line-height: 40px;
 }
 
 .service-header i {
-    color: #b3959d;
+    color: #fff;
     display: inline-block;
     font-size: 40px;
-    margin-bottom: 25px;
+    /* margin-bottom: 25px; */
+    background-color: #de9779;
+    border-radius: 60px;
+    padding: 15px;
+    height: 70px;
+    width: 70px;
 }
 
 /* ------------------------
@@ -3030,7 +3088,7 @@ blockquote {
 
 .social-bookmark-area li a {
     color: #fff;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .social-bookmark-area li a:hover,

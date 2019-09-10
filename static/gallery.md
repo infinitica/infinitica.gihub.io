@@ -16,8 +16,8 @@ description: |
                         <div class="portfolio-filter-wrap text-center">
                             <ul class="portfolio-filter">
                                 <li class="active"><a href="#" data-filter="*"> All</a></li>
-                                <li><a href="#" data-filter=".mosaics">MOSAICS</a></li>
                                 <li><a href="#" data-filter=".gifts">GIFTS FOR SOMEONE SPECIAL</a></li>
+                                <li><a href="#" data-filter=".mosaics">MOSAICS</a></li>
                                 <li><a href="#" data-filter=".fwdcategories">fwdcategories</a></li>
                                 <li><a href="#" data-filter=".trophies">TROPHIES</a></li>
                             </ul>

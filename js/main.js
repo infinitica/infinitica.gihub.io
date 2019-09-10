@@ -66,7 +66,7 @@
                 $('.portfolio-item').removeClass('hidden');
                 $grid.isotope();
                 $(this).hide();
-                $('.pagination-area .load-more').append('<a class="button" href="javascript:void(0)">No More Items</a>');
+                $('.pagination-area .load-more').append('<a class="button" href="/gallery.html">View More</a>');
                 event.preventDefault();
             });
         });
