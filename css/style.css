@@ -13,6 +13,19 @@ body {
     max-width: 100%;
     transition: all 0.3s ease-out 0s;
 }
+.intro-sec .about-me-img.text-right img {
+    width: 100%;
+    border: 10px solid #fff;
+}
+.intro-sec .about-me-text {
+    margin-top: 30px;
+}
+.intro-sec .about-me-img.text-right {
+    width: 100%;
+}
+.intro-sec {
+    padding: 40px 0;
+}
 .theinfinitica-h2{
  font-size: 26px;
  font-weight: bold;
@@ -703,7 +716,7 @@ label {
 }
 
 .banner-static-content h1 {
-    font-size: 40px;
+    font-size: 32px;
     font-weight: 900;
     line-height: 1;
     margin-bottom: 22px;
@@ -744,7 +757,7 @@ label {
 /*Slider Two*/
 
 .slider-style-1 {
-    background: rgba(0, 0, 0, 0) url("../images/slider/1.jpg") repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("../images/banner.jpg") repeat scroll center center / cover;
     border-top: 1px solid #e5e5e5;
     padding: 0;
     position: relative;
@@ -755,7 +768,7 @@ label {
 }
 
 .banner-static-content {
-    padding: 250px 0;
+    padding: 340px 0;
 }
 
 /*-------------------------------------------------------
@@ -821,16 +834,17 @@ label {
 }
 
 .slider-style-2 {
-    background: rgba(0, 0, 0, 0) url("images/slider/2.jpg") repeat scroll center center / cover;
-    padding: 250px 0;
+    /* background: rgba(0, 0, 0, 0) url("images/slider/2.jpg") repeat scroll center center / cover; */
+    background: rgba(0, 0, 0, 0) url("../images/banner.jpg") repeat scroll center center / cover;
+    padding: 260px 0;
 }
 
 .slider-style-2 .banner-static-content {
-    background: rgba(255, 255, 255, 1) none repeat scroll 0 0;
+    background: rgba(255, 255, 255, 0.9) none repeat scroll 0 0;
     margin: 0 auto;
     outline: 1px solid #fff;
     outline-offset: 5px;
-    padding: 45px;
+    padding: 35px;
     text-align: center;
     width: 600px;
 }
