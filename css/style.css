@@ -1132,6 +1132,7 @@ label {
     display: inline-block;
     margin-right: 10px;
     position: relative;
+    color: #cfb1bb;
 }
 
 .portfolio-category>li::before {
