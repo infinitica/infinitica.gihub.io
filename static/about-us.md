@@ -124,111 +124,112 @@ description: |
           </div>
       </div>
   </div>
-  <div class="wpsuptr-standard-row gray-bg">
-      <div class="container">
-          <div class="row">
-              <div class="col-xs-12">
-                  <div class="section-title text-center">
-                      <h2 class="area-title">Latest Posts</h2>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi tempora veritatis
-                          nemo aut ea iusto eos est expedita, quas ab adipisci.</p>
-                  </div>
-              </div>
-          </div>
-          <div class="row">
-              <div class="col-md-4 col-sm-6">
-                  <article class="grid-blog-post">
-                      <div class="post-thumbnail">
-                          <a href="#"><img src="images/blog/1.jpg" alt=""></a>
-                      </div>
-                      <div class="post-content">
-                          <div class="post-content-inner">
-                              <h3>TITLE</h3>
-                              <ul class="meta-info">
-                                  <li><a href="#">Admin</a></li>
-                                  <li><a href="#">20 Jan, 2070</a></li>
-                                  <li><a href="#">Graphic</a></li>
-                              </ul>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea,
-                                  quis magnam deserunt eius incidunt repellat molestiae maiores, quidem
-                                  cumque!</p>
-                          </div>
-                          <div class="post-footer-meta clearfix">
-                              <ul class="post-action-btn">
-                                  <li><a href="#"><i class="icon-refresh"></i></a></li>
-                                  <li><a href="#"><i class="icon-chat"></i></a></li>
-                                  <li><a href="#"><i class="icon-heart"></i></a></li>
-                              </ul>
-                              <div class="read-more-wrapper">
-                                  <a href="#" class="button">read more<i class="ti-arrow-right"></i></a>
-                                  <a href="#" class="like-count"><i class="ti-heart"></i><span>62</span></a>
-                              </div>
-                          </div>
-                      </div>
-                  </article>
-              </div>
-              <div class="col-md-4 col-sm-6">
-                  <article class="grid-blog-post">
-                      <div class="post-thumbnail">
-                          <a href="#"><img src="images/blog/2.jpg" alt=""></a>
-                      </div>
-                      <div class="post-content">
-                          <div class="post-content-inner">
-                              <h3>TITLE</h3>
-                              <ul class="meta-info">
-                                  <li><a href="#">Admin</a></li>
-                                  <li><a href="#">20 Jan, 2070</a></li>
-                                  <li><a href="#">Graphic</a></li>
-                              </ul>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea,
-                                  quis magnam deserunt eius incidunt repellat molestiae maiores, quidem
-                                  cumque!</p>
-                          </div>
-                          <div class="post-footer-meta clearfix">
-                              <ul class="post-action-btn">
-                                  <li><a href="#"><i class="icon-refresh"></i></a></li>
-                                  <li><a href="#"><i class="icon-chat"></i></a></li>
-                                  <li><a href="#"><i class="icon-heart"></i></a></li>
-                              </ul>
-                              <div class="read-more-wrapper">
-                                  <a href="#" class="button">read more<i class="ti-arrow-right"></i></a>
-                                  <a href="#" class="like-count"><i class="ti-heart"></i><span>62</span></a>
-                              </div>
-                          </div>
-                      </div>
-                  </article>
-              </div>
-              <div class="col-md-4 col-sm-6 hidden-sm">
-                  <article class="grid-blog-post">
-                      <div class="post-thumbnail">
-                          <a href="#"><img src="images/blog/3.jpg" alt=""></a>
-                      </div>
-                      <div class="post-content">
-                          <div class="post-content-inner">
-                              <h3>TITLE</h3>
-                              <ul class="meta-info">
-                                  <li><a href="#">Admin</a></li>
-                                  <li><a href="#">20 Jan, 2070</a></li>
-                                  <li><a href="#">Graphic</a></li>
-                              </ul>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea,
-                                  quis magnam deserunt eius incidunt repellat molestiae maiores, quidem
-                                  cumque!</p>
-                          </div>
-                          <div class="post-footer-meta clearfix">
-                              <ul class="post-action-btn">
-                                  <li><a href="#"><i class="icon-refresh"></i></a></li>
-                                  <li><a href="#"><i class="icon-chat"></i></a></li>
-                                  <li><a href="#"><i class="icon-heart"></i></a></li>
-                              </ul>
-                              <div class="read-more-wrapper">
-                                  <a href="#" class="button">read more<i class="ti-arrow-right"></i></a>
-                                  <a href="#" class="like-count"><i class="ti-heart"></i><span>62</span></a>
-                              </div>
-                          </div>
-                      </div>
-                  </article>
-              </div>
-          </div>
-      </div>
-  </div>
+<div class="wpsuptr-standard-row gray-bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="section-title text-center">
+                    <h2 class="area-title">Latest Posts</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi tempora veritatis
+                        nemo
+                        aut ea iusto eos est expedita, quas ab adipisci.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-sm-6">
+                <article class="grid-blog-post">
+                    <div class="post-thumbnail">
+                        <a href="#"><img src="images/portfolio/trophies/T10.jpg" alt=""></a>
+                    </div>
+                    <div class="post-content">
+                        <div class="post-content-inner">
+                            <h3>TITLE</h3>
+                            <ul class="meta-info">
+                                <li><a href="#">Admin</a></li>
+                                <li><a href="#">20 Jan, 2070</a></li>
+                                <li><a href="#">Graphic</a></li>
+                            </ul>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea,
+                                quis
+                                magnam deserunt eius incidunt repellat molestiae maiores, quidem cumque!</p>
+                        </div>
+                        <div class="post-footer-meta clearfix">
+                            <ul class="post-action-btn">
+                                <li><a href="#"><i class="icon-refresh"></i></a></li>
+                                <li><a href="#"><i class="icon-chat"></i></a></li>
+                                <li><a href="#"><i class="icon-heart"></i></a></li>
+                            </ul>
+                            <div class="read-more-wrapper">
+                                <a href="#" class="button">read more<i class="ti-arrow-right"></i></a>
+                                <a href="#" class="like-count"><i class="ti-heart"></i><span>62</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <article class="grid-blog-post">
+                    <div class="post-thumbnail">
+                        <a href="#"><img src="images/portfolio/trophies/T5.jpg" alt=""></a>
+                    </div>
+                    <div class="post-content">
+                        <div class="post-content-inner">
+                            <h3>TITLE</h3>
+                            <ul class="meta-info">
+                                <li><a href="#">Admin</a></li>
+                                <li><a href="#">20 Jan, 2070</a></li>
+                                <li><a href="#">Graphic</a></li>
+                            </ul>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea,
+                                quis
+                                magnam deserunt eius incidunt repellat molestiae maiores, quidem cumque!</p>
+                        </div>
+                        <div class="post-footer-meta clearfix">
+                            <ul class="post-action-btn">
+                                <li><a href="#"><i class="icon-refresh"></i></a></li>
+                                <li><a href="#"><i class="icon-chat"></i></a></li>
+                                <li><a href="#"><i class="icon-heart"></i></a></li>
+                            </ul>
+                            <div class="read-more-wrapper">
+                                <a href="#" class="button">read more<i class="ti-arrow-right"></i></a>
+                                <a href="#" class="like-count"><i class="ti-heart"></i><span>62</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
+            <div class="col-md-4 col-sm-6 hidden-sm">
+                <article class="grid-blog-post">
+                    <div class="post-thumbnail">
+                        <a href="#"><img src="images/portfolio/trophies/T12.jpg" alt=""></a>
+                    </div>
+                    <div class="post-content">
+                        <div class="post-content-inner">
+                            <h3>TITLE</h3>
+                            <ul class="meta-info">
+                                <li><a href="#">Admin</a></li>
+                                <li><a href="#">20 Jan, 2070</a></li>
+                                <li><a href="#">Graphic</a></li>
+                            </ul>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea,
+                                quis
+                                magnam deserunt eius incidunt repellat molestiae maiores, quidem cumque!</p>
+                        </div>
+                        <div class="post-footer-meta clearfix">
+                            <ul class="post-action-btn">
+                                <li><a href="#"><i class="icon-refresh"></i></a></li>
+                                <li><a href="#"><i class="icon-chat"></i></a></li>
+                                <li><a href="#"><i class="icon-heart"></i></a></li>
+                            </ul>
+                            <div class="read-more-wrapper">
+                                <a href="#" class="button">read more<i class="ti-arrow-right"></i></a>
+                                <a href="#" class="like-count"><i class="ti-heart"></i><span>62</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </div>
+</div>

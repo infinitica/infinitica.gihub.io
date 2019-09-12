@@ -418,6 +418,10 @@ label {
     color: #b3959d;
 }
 
+.main-menu li.active a {
+    color: #b3959d;
+}
+
 .main-menu li a span {
     margin-left: 5px;
 }
@@ -757,7 +761,7 @@ label {
 /*Slider Two*/
 
 .slider-style-1 {
-    background: rgba(0, 0, 0, 0) url("../images/banner.jpg") repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("../images/banner1.jpg") repeat scroll center center / cover;
     border-top: 1px solid #e5e5e5;
     padding: 0;
     position: relative;
@@ -973,6 +977,9 @@ label {
 
 .portfolio-3-column .portfolio-item-big {
     width: 66.666667%;
+}
+.portfolio-4-column .portfolio-item-big {
+    width: 70%!important;
 }
 
 .portfolio-4-column .portfolio-item {
@@ -1210,7 +1217,8 @@ label {
 }
 
 .portfolio-style-2 .item-thumbnail::before {
-    background: rgba(255, 205, 0, .9);
+    /* background: rgba(255, 205, 0, .9); */
+    background: rgba(252,232,225,0.9);
     border-radius: 100%;
     bottom: -100px;
     content: "";

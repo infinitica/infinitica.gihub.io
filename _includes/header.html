@@ -12,20 +12,20 @@
                     <div class="menu-area">
                         <nav>
                             <ul class="main-menu clearfix hover-style-one">
-                                <li>
-                                        <a {% if page.url == "/index.html" %}class="active "{% endif %} href="index.html" class="item" href="#">Home 
+                                <li {% if page.url == "/" %}class="active "{% endif %}>
+                                        <a  href="index.html" class="item" href="#">Home 
                                         </a>
                                 </li>
-                                <li>
-                                        <a {% if page.url == "/gallery.html" %}class="active "{% endif %} href="gallery.html" class="item" href="#">Gallery 
+                                <li {% if page.url == "/gallery.html" %}class="active "{% endif %}>
+                                        <a href="gallery.html" class="item" href="#">Gallery 
                                         </a>
                                 </li>
-                                <li>
-                                        <a {% if page.url == "/about-me.html" %}class="active "{% endif %} href="about-us.html" class="item" href="#">About us
+                                <li {% if page.url == "/about-us.html" %}class="active "{% endif %}>
+                                        <a  href="about-us.html" class="item" href="#">About us
                                         </a>
                                 </li>
-                                <li>
-                                        <a {% if page.url == "/contact.html" %}class="active "{% endif %} href="contact.html" class="item" href="#">Contact us
+                                <li {% if page.url == "/contact.html" %}class="active "{% endif %}>
+                                        <a  href="contact.html" class="item" href="#">Contact us
                                         </a>
                                 </li>
                             </ul>
