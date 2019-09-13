@@ -30,6 +30,34 @@ body {
  font-size: 26px;
  font-weight: bold;
 }
+.p-0{
+ padding: 0!important;
+}
+/* featured-img */
+.featured-img img {
+    width: 100%;
+}
+.wrap-div{
+    float: left;
+    width: 100%;
+}
+ul.filter_tag li {
+    display: inline-block;
+}
+ul.filter_tag {
+    float: left;
+    width: 100%;
+    margin-top: -60px;
+    text-align: center;
+}
+ul.filter_tag li a {
+    color: #2c2d2e;
+    padding: 7px 15px;
+}
+.filter_tag li.active a {
+    background: #c8775c;
+    color: #fff!important;
+}
 .contact-widget-wrap {
     padding: 40px 30px 10px 30px!important;
     background-color: #fff;

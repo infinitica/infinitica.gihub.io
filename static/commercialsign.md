@@ -5,22 +5,21 @@ title: Gallery
 subtitle: Breadcrumb sub title
 pagename: Gallery
 main_image: /images/banner.jpg
-permalink: gallery.html
+permalink: commercialsign.html
 description: |
 ---
 <div class="wpsuptr-standard-row">
    <div class="container">
       <div class="portfolio-content">
          <div class="portfolio-filter-wrap text-center">
-            <ul class="portfolio-filter">
-               <li class="active"><a href="#" data-filter="*"> All</a></li>
-               <li><a href="#" data-filter=".trophies">TROPHIES</a></li>
-               <li><a href="#" data-filter=".fwdcategories">Home Decors</a></li>
-               <li><a href="#" data-filter=".anniverserygifts">Anniversary Gifts</a></li>
-               <li><a href="#" data-filter=".mosaics">MOSAICS</a></li>
-               <li><a href="#" data-filter=".commercialsign">Commercial Signs</a></li>
-               <li><a href="#" data-filter=".christmasgifts">Christmas Gifts</a></li>
-               <li><a href="#" data-filter=".pettags">Pet Tags</a></li>
+            <ul class="filter_tag">
+               <li><a href="trophies.html" >TROPHIES</a></li>
+               <li ><a href="/homedecors.html" >Home Decors</a></li>
+               <li><a href="/anniversary.html" >Anniversary Gifts</a></li>
+               <li><a href="/mosaics.html" >MOSAICS</a></li>
+               <li class="active"><a href="/commercialsign.html" >Commercial Signs</a></li>
+               <li><a href="/christmasgift.html" >Christmas Gifts</a></li>
+               <li><a href="/pettags.html" >Pet Tags</a></li>
             </ul>
          </div>
          <div
