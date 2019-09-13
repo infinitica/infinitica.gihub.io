@@ -73,22 +73,6 @@ description: |
                   </div>
                </div>
             </div>
-            <div class="portfolio-item mosaics hidden">
-               <div class="portfolio-item-content">
-                  <div class="item-thumbnail">
-                     <a class="example-image-link" >
-                     <img class="example-image" src="images/portfolio/mosaics/M21.JPG" alt=""/>
-                     </a>
-                     <a href="images/portfolio/mosaics/M21.JPG"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
-                  </div>
-                  <div class="portfolio-description">
-                     <h4>M21</h4>
-                     <ul class="portfolio-category">
-                        <li>Mosaics</li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
             <div class="portfolio-item mosaics  hidden">
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
@@ -333,22 +317,6 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M25B.JPG" alt=""/>
-                     </a>
-                     <a href="images/portfolio/mosaics/M25B.JPG"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
-                  </div>
-                  <div class="portfolio-description">
-                     <h4>M25B</h4>
-                     <ul class="portfolio-category">
-                        <li>Mosaics</li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-            <div class="portfolio-item mosaics hidden">
-               <div class="portfolio-item-content">
-                  <div class="item-thumbnail">
-                     <a class="example-image-link"  >
                      <img class="example-image" src="images/portfolio/mosaics/M23A.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M23A.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
@@ -505,22 +473,6 @@ description: |
                   </div>
                </div>
             </div>
-            <div class="portfolio-item anniverserygifts ">
-               <div class="portfolio-item-content">
-                  <div class="item-thumbnail">
-                     <a class="example-image-link" >
-                     <img class="example-image" src="images/portfolio/gifts/HEART COLLAGE (2).JPG" alt=""/>
-                     </a>
-                     <a href="images/portfolio/gifts/HEART COLLAGE (2).JPG"   data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
-                  </div>
-                  <div class="portfolio-description">
-                     <h4>HEART COLLAGE (2)</h4>
-                     <ul class="portfolio-category">
-                        <li>Anniversery Gifts</li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
             <div class="portfolio-item anniverserygifts">
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
@@ -668,22 +620,6 @@ description: |
             <div class="portfolio-item anniverserygifts ">
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
-                     <a class="example-image-link" >
-                     <img class="example-image" src="images/portfolio/gifts/IMG_E9115.JPG" alt=""/>
-                     </a>
-                     <a href="images/portfolio/gifts/IMG_E9115.JPG"   data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
-                  </div>
-                  <div class="portfolio-description">
-                     <h4></h4>
-                     <ul class="portfolio-category">
-                        <li>Anniversery Gifts</li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-            <div class="portfolio-item anniverserygifts ">
-               <div class="portfolio-item-content">
-                  <div class="item-thumbnail">
                      <a class="example-image-link"  >
                      <img class="example-image" src="images/portfolio/gifts/IMG_8668.JPG" alt=""/>
                      </a>
@@ -707,22 +643,6 @@ description: |
                   </div>
                   <div class="portfolio-description">
                      <h4>HEARTS HANGING COLLAGE</h4>
-                     <ul class="portfolio-category">
-                        <li>Anniversery Gifts</li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-            <div class="portfolio-item anniverserygifts ">
-               <div class="portfolio-item-content">
-                  <div class="item-thumbnail">
-                     <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/IMG_E0478.JPG" alt=""/>
-                     </a>
-                     <a href="images/portfolio/gifts/IMG_E0478.JPG"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
-                  </div>
-                  <div class="portfolio-description">
-                     <h4></h4>
                      <ul class="portfolio-category">
                         <li>Anniversery Gifts</li>
                      </ul>
@@ -829,22 +749,6 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/IMG_0364.JPG" alt=""/>
-                     </a>
-                     <a href="images/portfolio/gifts/IMG_0364.JPG"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
-                  </div>
-                  <div class="portfolio-description">
-                     <h4></h4>
-                     <ul class="portfolio-category">
-                        <li>Anniversery Gifts</li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-            <div class="portfolio-item anniverserygifts hidden">
-               <div class="portfolio-item-content">
-                  <div class="item-thumbnail">
-                     <a class="example-image-link"  >
                      <img class="example-image" src="images/portfolio/gifts/TABLE TOP.JPG" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/TABLE TOP.JPG"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
@@ -864,22 +768,6 @@ description: |
                      <img class="example-image" src="images/portfolio/gifts/IMG_9966.JPG" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/IMG_9966.JPG"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
-                  </div>
-                  <div class="portfolio-description">
-                     <h4></h4>
-                     <ul class="portfolio-category">
-                        <li>Anniversery Gifts</li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-            <div class="portfolio-item anniverserygifts hidden">
-               <div class="portfolio-item-content">
-                  <div class="item-thumbnail">
-                     <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/IMG_8599.JPG" alt=""/>
-                     </a>
-                     <a href="images/portfolio/gifts/IMG_8599.JPG" data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
                   <div class="portfolio-description">
                      <h4></h4>
