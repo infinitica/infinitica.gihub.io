@@ -40,22 +40,6 @@ description: |
                   </div>
                </div>
             </div>
-            <div class="portfolio-item anniverserygifts">
-               <div class="portfolio-item-content">
-                  <div class="item-thumbnail">
-                     <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/BeMine-Cutout-Table-Top.jpg" alt=""/>
-                     </a>
-                     <a href="images/portfolio/gifts/BeMine-Cutout-Table-Top.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
-                  </div>
-                  <div class="portfolio-description">
-                     <h4>BeMine Cutout Table Top</h4>
-                     <ul class="portfolio-category">
-                        <li>Anniversery Gifts</li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
             <div class="portfolio-item anniverserygifts ">
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
@@ -347,22 +331,6 @@ description: |
             <div class="portfolio-item anniverserygifts hidden">
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
-                     <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/IMG_2024.jpg" alt=""/>
-                     </a>
-                     <a href="images/portfolio/gifts/IMG_2024.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
-                  </div>
-                  <div class="portfolio-description">
-                     <h4></h4>
-                     <ul class="portfolio-category">
-                        <li>Anniversery Gifts</li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-            <div class="portfolio-item anniverserygifts hidden">
-               <div class="portfolio-item-content">
-                  <div class="item-thumbnail">
                      <a class="example-image-link" >
                      <img class="example-image" src="images/portfolio/gifts/IMG_0639.JPG" alt=""/>
                      </a>
@@ -386,6 +354,22 @@ description: |
                   </div>
                   <div class="portfolio-description">
                      <h4>TABLE TOP</h4>
+                     <ul class="portfolio-category">
+                        <li>Anniversery Gifts</li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+             <div class="portfolio-item anniverserygifts hidden">
+               <div class="portfolio-item-content">
+                  <div class="item-thumbnail">
+                     <a class="example-image-link"  >
+                     <img class="example-image" src="images/portfolio/gifts/BeMine-Cutout-Table-Top.jpg" alt=""/>
+                     </a>
+                     <a href="images/portfolio/gifts/BeMine-Cutout-Table-Top.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
+                  </div>
+                  <div class="portfolio-description">
+                     <h4>BeMine Cutout Table Top</h4>
                      <ul class="portfolio-category">
                         <li>Anniversery Gifts</li>
                      </ul>
