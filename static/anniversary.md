@@ -44,9 +44,9 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/BeMine Cutout Table Top.JPG" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/BeMine-Cutout-Table-Top.jpg" alt=""/>
                      </a>
-                     <a href="images/portfolio/gifts/BeMine Cutout Table Top.JPG"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
+                     <a href="images/portfolio/gifts/BeMine-Cutout-Table-Top.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
                   <div class="portfolio-description">
                      <h4>BeMine Cutout Table Top</h4>
