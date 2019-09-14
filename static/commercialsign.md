@@ -30,7 +30,7 @@ description: |
                      <a class="example-image-link"  >
                      <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS6.jpg" alt=""/>
                      </a>
-                     <a hhref="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS6.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
+                     <a href="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS6.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
                   <div class="portfolio-description">
                      <h4>CS6</h4>

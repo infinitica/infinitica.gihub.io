@@ -1007,9 +1007,13 @@ label {
     width: 66.666667%;
 }
 .portfolio-4-column .portfolio-item-big {
-    width: 70%!important;
+    width: 100%;
 }
-
+.img-big{
+    margin-top:-670px!important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    transition: .3s;
+}
 .portfolio-4-column .portfolio-item {
     width: 25%;
 }

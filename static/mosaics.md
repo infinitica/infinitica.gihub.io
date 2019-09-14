@@ -23,8 +23,8 @@ description: |
             </ul>
          </div>
          <div
-            class="portfolio portfolio-gutter portfolio-style-2 portfolio-masonry portfolio-not-full portfolio-4-column">
-            <div class=" portfolio-item mosaics">
+            class="portfolio portfolio-gutter portfolio-style-2 portfolio-masonry portfolio-not-full portfolio-4-column" style="margin-top:670px; float:left;" >
+            <div class=" portfolio-item-big img-big">
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a>
