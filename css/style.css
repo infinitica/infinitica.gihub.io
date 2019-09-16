@@ -47,12 +47,14 @@ ul.filter_tag li {
 ul.filter_tag {
     float: left;
     width: 100%;
-    margin-top: -60px;
+    margin-bottom: 40px;
     text-align: center;
 }
 ul.filter_tag li a {
     color: #2c2d2e;
-    padding: 7px 15px;
+    padding: 5px 10px;
+    font-size: 12px;
+    text-transform: uppercase;
 }
 .filter_tag li.active a {
     background: #c8775c;
@@ -1212,6 +1214,8 @@ label {
 
 .pagination-area {
     margin-top: 30px;
+    float: left;
+    width: 100%;
 }
 
 .portfolio-style-2 .portfolio-description {

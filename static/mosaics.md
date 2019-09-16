@@ -15,6 +15,8 @@ description: |
             <ul class="filter_tag">
                <li><a href="/trophies.html" >TROPHIES</a></li>
                <li ><a href="/homedecors.html" >Home Decors</a></li>
+               <li><a href="/housing-number-plaques.html" >Housing Number Plaques</a></li>
+               <li><a href="/personalized-clocks.html" >Personalized Clocks</a></li>
                <li><a href="/anniversary.html" >Anniversary Gifts</a></li>
                <li class="active"><a href="/mosaics.html" >MOSAICS</a></li>
                <li><a href="/commercialsign.html" >Commercial Signs</a></li>
@@ -23,7 +25,7 @@ description: |
             </ul>
          </div>
          <div
-            class="portfolio portfolio-gutter portfolio-style-2 portfolio-masonry portfolio-not-full portfolio-4-column" style="margin-top:670px; float:left;" >
+            class="portfolio portfolio-gutter portfolio-style-2 portfolio-masonry portfolio-not-full portfolio-4-column wrap-div mosaics-mt" style="margin-top:670px; float:left;" >
             <div class=" portfolio-item-big img-big">
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">

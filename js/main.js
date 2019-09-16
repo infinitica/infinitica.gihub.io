@@ -66,7 +66,7 @@
                 $('.portfolio-item').removeClass('hidden');
                 $grid.isotope();
                 $(this).hide();
-                $('.pagination-area .load-more').append('<a class="button" href="/trophies.html">View More</a>');
+                $('.pagination-area .load-more').append('<a class="button" href="#">No More Items</a>');
                 event.preventDefault();
             });
         });
