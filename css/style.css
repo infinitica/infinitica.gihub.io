@@ -791,7 +791,7 @@ label {
 /*Slider Two*/
 
 .slider-style-1 {
-    background: rgba(0, 0, 0, 0) url("../images/banner1.jpg") repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("../images/portfolio/banner.jpg") repeat scroll center center / cover;
     border-top: 1px solid #e5e5e5;
     padding: 0;
     position: relative;
@@ -803,6 +803,7 @@ label {
 
 .banner-static-content {
     padding: 340px 0;
+    visibility: hidden;
 }
 
 /*-------------------------------------------------------
