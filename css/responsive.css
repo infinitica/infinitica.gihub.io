@@ -362,6 +362,12 @@
     .mean-container .mean-nav{
         margin-top: 50px;
     }
+    .single-service {
+        text-align: left;
+    }
+    .service-header h3 {
+        margin: 0 0px 0px 10px;
+    }
     .mean-container .mean-nav ul li:last-child a {
         border-bottom: 1px solid #999;
     }
