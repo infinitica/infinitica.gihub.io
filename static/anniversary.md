@@ -30,7 +30,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/couple cutout 2.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/couple cutout 2.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/couple cutout 2.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -46,7 +46,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link">
-                     <img class="example-image" src="images/portfolio/gifts/cutout.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/cutout.jpg" alt=""/>
                      </a>
                      <a  href="images/portfolio/gifts/cutout.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -62,7 +62,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/RINGS COLLAGE.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/RINGS COLLAGE.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/RINGS COLLAGE.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -78,7 +78,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/il_fullxfull.1148435441_r0c3.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/il_fullxfull.1148435441_r0c3.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/il_fullxfull.1148435441_r0c3.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -94,7 +94,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link">
-                     <img class="example-image" src="images/portfolio/gifts/mosaic copy.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/mosaic copy.jpg" alt=""/>
                      </a>
                      <a  href="images/portfolio/gifts/mosaic copy.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -110,7 +110,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link" href="images/portfolio/gifts/IMG_E2147.JPG" >
-                     <img class="example-image" src="images/portfolio/gifts/IMG_E2147.JPG" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/IMG_E2147.JPG" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/IMG_E2147.JPG"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -126,7 +126,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/3 BMV.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/3 BMV.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/3 BMV.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -142,7 +142,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/1 HANGING copy.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/1 HANGING copy.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/1 HANGING copy.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -158,7 +158,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/2 HEART MOSAIC BMV INFINITI.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/2 HEART MOSAIC BMV INFINITI.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/2 HEART MOSAIC BMV INFINITI.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -174,7 +174,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/heart LED stand.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/heart LED stand.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/heart LED stand.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -190,7 +190,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/IMG_E1509.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/IMG_E1509.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/IMG_E1509.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -206,7 +206,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/IMG_E9266.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/IMG_E9266.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/IMG_E9266.jpg" data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -222,7 +222,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/IMG_E2447.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/IMG_E2447.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/IMG_E2447.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -238,7 +238,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/IMG_8668.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/IMG_8668.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/IMG_8668.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -254,7 +254,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/HEARTS HANGING COLLAGE.JPG" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/HEARTS HANGING COLLAGE.JPG" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/HEARTS HANGING COLLAGE.JPG"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -270,7 +270,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link" >
-                     <img class="example-image" src="images/portfolio/gifts/IMG_E9631.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/IMG_E9631.jpg" alt=""/>
                      </a>
                      <a  href="images/portfolio/gifts/IMG_E9631.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -286,7 +286,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/14516596_305273916514492_475447656492446947_n.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/14516596_305273916514492_475447656492446947_n.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/14516596_305273916514492_475447656492446947_n.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -302,7 +302,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/14495229_309993296042554_4450988838047265789_n.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/14495229_309993296042554_4450988838047265789_n.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/14495229_309993296042554_4450988838047265789_n.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -318,7 +318,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/IMG_8569.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/IMG_8569.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/IMG_8569.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -334,7 +334,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link" >
-                     <img class="example-image" src="images/portfolio/gifts/IMG_0639.JPG" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/IMG_0639.JPG" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/IMG_0639.JPG"   data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -350,7 +350,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/TABLE TOP.JPG" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/TABLE TOP.JPG" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/TABLE TOP.JPG"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -366,7 +366,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/gifts/BeMine-Cutout-Table-Top.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/BeMine-Cutout-Table-Top.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/BeMine-Cutout-Table-Top.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -382,7 +382,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link" >
-                     <img class="example-image" src="images/portfolio/gifts/IMG_9966.JPG" alt=""/>
+                     <img class="example-image" src="images/portfolio/gifts/small/IMG_9966.JPG" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/IMG_9966.JPG"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
