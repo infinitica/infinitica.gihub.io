@@ -154,17 +154,6 @@ description: |
                                 quis
                                 magnam deserunt eius incidunt repellat molestiae maiores, quidem cumque!</p>
                         </div>
-                        <div class="post-footer-meta clearfix">
-                            <ul class="post-action-btn">
-                                <li><a href="#"><i class="icon-refresh"></i></a></li>
-                                <li><a href="#"><i class="icon-chat"></i></a></li>
-                                <li><a href="#"><i class="icon-heart"></i></a></li>
-                            </ul>
-                            <div class="read-more-wrapper">
-                                <a href="#" class="button">read more<i class="ti-arrow-right"></i></a>
-                                <a href="#" class="like-count"><i class="ti-heart"></i><span>62</span></a>
-                            </div>
-                        </div>
                     </div>
                 </article>
             </div>
@@ -185,17 +174,6 @@ description: |
                                 quis
                                 magnam deserunt eius incidunt repellat molestiae maiores, quidem cumque!</p>
                         </div>
-                        <div class="post-footer-meta clearfix">
-                            <ul class="post-action-btn">
-                                <li><a href="#"><i class="icon-refresh"></i></a></li>
-                                <li><a href="#"><i class="icon-chat"></i></a></li>
-                                <li><a href="#"><i class="icon-heart"></i></a></li>
-                            </ul>
-                            <div class="read-more-wrapper">
-                                <a href="#" class="button">read more<i class="ti-arrow-right"></i></a>
-                                <a href="#" class="like-count"><i class="ti-heart"></i><span>62</span></a>
-                            </div>
-                        </div>
                     </div>
                 </article>
             </div>
@@ -215,17 +193,6 @@ description: |
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea,
                                 quis
                                 magnam deserunt eius incidunt repellat molestiae maiores, quidem cumque!</p>
-                        </div>
-                        <div class="post-footer-meta clearfix">
-                            <ul class="post-action-btn">
-                                <li><a href="#"><i class="icon-refresh"></i></a></li>
-                                <li><a href="#"><i class="icon-chat"></i></a></li>
-                                <li><a href="#"><i class="icon-heart"></i></a></li>
-                            </ul>
-                            <div class="read-more-wrapper">
-                                <a href="#" class="button">read more<i class="ti-arrow-right"></i></a>
-                                <a href="#" class="like-count"><i class="ti-heart"></i><span>62</span></a>
-                            </div>
                         </div>
                     </div>
                 </article>

@@ -29,15 +29,63 @@ description: |
             <div class="portfolio-item fwdcategories">
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
-                     <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/Wall Decors/HD5.jpg" alt=""/>
+                     <a class="example-image-link" >
+                     <img class="example-image" src="images/portfolio/fwdcategories/Wall Decors/HD1.jpg" alt=""/>
                      </a>
-                     <a href="images/portfolio/fwdcategories/Wall Decors/HD5.jpg" data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
+                     <a href="images/portfolio/fwdcategories/Wall Decors/HD1.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
                   <div class="portfolio-description">
-                     <h4>HD5</h4>
+                     <h4>HD1</h4>
+                     <ul class="portfolio-category">
+                        <li>Wall Arts</li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+            <div class="portfolio-item fwdcategories">
+               <div class="portfolio-item-content">
+                  <div class="item-thumbnail">
+                     <a class="example-image-link"  >
+                     <img class="example-image" src="images/portfolio/fwdcategories/Wall Decors/HD2.jpg" alt=""/>
+                     </a>
+                     <a href="images/portfolio/fwdcategories/Wall Decors/HD2.jpg" data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
+                  </div>
+                  <div class="portfolio-description">
+                     <h4>HD2</h4>
                      <ul class="portfolio-category">
                         <li>Trophies</li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+            <div class="portfolio-item fwdcategories">
+               <div class="portfolio-item-content">
+                  <div class="item-thumbnail">
+                     <a class="example-image-link"  >
+                     <img class="example-image" src="images/portfolio/fwdcategories/Wall Decors/HD3.jpg" alt=""/>
+                     </a>
+                     <a href="images/portfolio/fwdcategories/Wall Decors/HD3.jpg" data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
+                  </div>
+                  <div class="portfolio-description">
+                     <h4>HD3</h4>
+                     <ul class="portfolio-category">
+                        <li>Trophies</li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+            <div class="portfolio-item fwdcategories hidden">
+               <div class="portfolio-item-content">
+                  <div class="item-thumbnail">
+                     <a class="example-image-link" >
+                     <img class="example-image" src="images/portfolio/fwdcategories/Wall Decors/HD6.jpg" alt=""/>
+                     </a>
+                     <a href="images/portfolio/fwdcategories/Wall Decors/HD6.jpg"   data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
+                  </div>
+                  <div class="portfolio-description">
+                     <h4>HD6</h4>
+                     <ul class="portfolio-category">
+                        <li>Wall Arts</li>
                      </ul>
                   </div>
                </div>
@@ -62,44 +110,12 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/Wall Decors/HD3.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/Wall Decors/HD5.jpg" alt=""/>
                      </a>
-                     <a href="images/portfolio/fwdcategories/Wall Decors/HD3.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
+                     <a href="images/portfolio/fwdcategories/Wall Decors/HD5.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
                   <div class="portfolio-description">
-                     <h4>HD3</h4>
-                     <ul class="portfolio-category">
-                        <li>Wall Arts</li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-            <div class="portfolio-item fwdcategories">
-               <div class="portfolio-item-content">
-                  <div class="item-thumbnail">
-                     <a class="example-image-link" >
-                     <img class="example-image" src="images/portfolio/fwdcategories/Wall Decors/HD2.jpg" alt=""/>
-                     </a>
-                     <a href="images/portfolio/fwdcategories/Wall Decors/HD2.jpg"   data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
-                  </div>
-                  <div class="portfolio-description">
-                     <h4>HD2</h4>
-                     <ul class="portfolio-category">
-                        <li>Wall Arts</li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-            <div class="portfolio-item fwdcategories">
-               <div class="portfolio-item-content">
-                  <div class="item-thumbnail">
-                     <a class="example-image-link" >
-                     <img class="example-image" src="images/portfolio/fwdcategories/Wall Decors/HD1.jpg" alt=""/>
-                     </a>
-                     <a href="images/portfolio/fwdcategories/Wall Decors/HD1.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
-                  </div>
-                  <div class="portfolio-description">
-                     <h4>HD1</h4>
+                     <h4>HD5</h4>
                      <ul class="portfolio-category">
                         <li>Wall Arts</li>
                      </ul>
