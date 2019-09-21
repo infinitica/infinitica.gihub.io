@@ -30,7 +30,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P17.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P17.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P17.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -46,7 +46,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P16.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P16.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P16.jpg" data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -62,7 +62,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P10.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P10.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P10.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -78,7 +78,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P7.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P7.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P7.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -94,7 +94,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P13.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P13.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P13.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -110,7 +110,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P18.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P18.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P18.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -126,7 +126,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P12.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P12.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P12.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -142,7 +142,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P15.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P15.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P15.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -158,7 +158,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P14.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P14.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P14.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -174,7 +174,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P11.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P11.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P11.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -190,7 +190,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P9.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P9.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P9.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -206,7 +206,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P8.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P8.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P8.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -222,7 +222,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P6.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P6.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P6.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -238,7 +238,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P5.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P5.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P5.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -254,7 +254,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P4.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P4.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P4.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -270,7 +270,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P2.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P2.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P2.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -286,7 +286,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P3.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P3.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P3.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -302,7 +302,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/P1.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/PET TAGS/small/P1.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/PET TAGS/P1.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>

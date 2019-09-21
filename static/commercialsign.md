@@ -30,7 +30,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS6.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/small/CS6.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS6.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -46,7 +46,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS5.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/small/CS5.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS5.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -62,7 +62,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS3.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/small/CS3.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS3.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -78,7 +78,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS16.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/small/CS16.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS16.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -94,7 +94,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS11.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/small/CS11.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS11.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -110,7 +110,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS7.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/small/CS7.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS7.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -126,7 +126,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS4.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/small/CS4.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS4.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -142,7 +142,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS10.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/COMMERCIAL SIGNS/small/CS10.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/COMMERCIAL SIGNS/CS10.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
