@@ -124,7 +124,7 @@ description: |
           </div>
       </div>
   </div>
-<div class="wpsuptr-standard-row gray-bg">
+<div class="wpsuptr-standard-row gray-bg warp-div">
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
@@ -140,7 +140,7 @@ description: |
             <div class="col-md-4 col-sm-6">
                 <article class="grid-blog-post">
                     <div class="post-thumbnail">
-                        <a href="#"><img src="images/portfolio/trophies/T10.jpg" alt=""></a>
+                        <a href="#"><img src="images/portfolio/trophies/small/T10.jpg" alt=""></a>
                     </div>
                     <div class="post-content">
                         <div class="post-content-inner">
@@ -171,7 +171,7 @@ description: |
             <div class="col-md-4 col-sm-6">
                 <article class="grid-blog-post">
                     <div class="post-thumbnail">
-                        <a href="#"><img src="images/portfolio/trophies/T5.jpg" alt=""></a>
+                        <a href="#"><img src="images/portfolio/trophies/small/T5.jpg" alt=""></a>
                     </div>
                     <div class="post-content">
                         <div class="post-content-inner">
@@ -199,10 +199,10 @@ description: |
                     </div>
                 </article>
             </div>
-            <div class="col-md-4 col-sm-6 hidden-sm">
+            <div class="col-md-4 col-sm-6 -sm">
                 <article class="grid-blog-post">
                     <div class="post-thumbnail">
-                        <a href="#"><img src="images/portfolio/trophies/T12.jpg" alt=""></a>
+                        <a href="#"><img src="images/portfolio/trophies/small/T12.jpg" alt=""></a>
                     </div>
                     <div class="post-content">
                         <div class="post-content-inner">
