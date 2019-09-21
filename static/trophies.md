@@ -190,22 +190,6 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/trophies/small//T5.jpg" alt=""/>
-                     </a>
-                     <a href="images/portfolio/trophies/T5.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
-                  </div>
-                  <div class="portfolio-description">
-                     <h4>T5</h4>
-                     <ul class="portfolio-category">
-                        <li>Trophies</li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-            <div class="portfolio-item trophies hidden">
-               <div class="portfolio-item-content">
-                  <div class="item-thumbnail">
-                     <a class="example-image-link"  >
                      <img class="example-image" src="images/portfolio/trophies/small//T7.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/trophies/T7.jpg" data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
