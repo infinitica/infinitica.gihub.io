@@ -30,7 +30,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/PC5.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/small/PC5.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/photo clocks/PC5.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -46,7 +46,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/PC2.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/small/PC2.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/photo clocks/PC2.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -62,7 +62,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/PC3.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/small/PC3.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/photo clocks/PC3.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -78,7 +78,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/PC4.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/small/PC4.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/photo clocks/PC4.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -94,7 +94,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/PC13.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/small/PC13.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/photo clocks/PC13.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -110,7 +110,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/PC14.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/small/PC14.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/photo clocks/PC14.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -126,7 +126,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/PC16.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/small/PC16.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/photo clocks/PC16.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -142,7 +142,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link" >
-                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/PC1.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/small/PC1.jpg" alt=""/>
                      </a>
                      <a  href="images/portfolio/fwdcategories/photo clocks/PC1.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -158,7 +158,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/PC9.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/small/PC9.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/photo clocks/PC9.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -174,7 +174,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link" >
-                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/PC8.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/small/PC8.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/photo clocks/PC8.jpg"   data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -190,7 +190,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/PC12.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/small/PC12.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/photo clocks/PC12.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -206,7 +206,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/PC6.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/small/PC6.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/photo clocks/PC6.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -222,7 +222,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/PC7.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/small/PC7.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/photo clocks/PC7.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -238,7 +238,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/PC10.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/small/PC10.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/photo clocks/PC10.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -254,7 +254,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/PC11.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/fwdcategories/photo clocks/small/PC11.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/fwdcategories/photo clocks/PC11.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
