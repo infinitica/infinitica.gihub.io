@@ -109,8 +109,8 @@ description: |
             <div class="portfolio-item anniverserygifts ">
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
-                     <a class="example-image-link" href="images/portfolio/gifts/IMG_E2147.JPG" >
-                     <img class="example-image" src="images/portfolio/gifts/small/IMG_E2147.JPG" alt=""/>
+                     <a class="example-image-link" >
+                     <img class="example-image" src="images/portfolio/gifts/small/IMG_E2147.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/gifts/IMG_E2147.JPG"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
