@@ -2,7 +2,7 @@
 layout: static
 id: immigration
 title: Gallery
-subtitle: Breadcrumb sub title
+subtitle: A Range Of Industrial, Co-Operate And Gifting Customised Products
 pagename: Gallery
 main_image: /images/banner.jpg
 permalink: mosaics.html
@@ -46,7 +46,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a>
-                     <img class="example-image" src="images/portfolio/mosaics/M14.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M14.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M14.jpg" data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -62,7 +62,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a>
-                     <img class="example-image" src="images/portfolio/mosaics/M16.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M16.jpg" alt=""/>
                      </a>
                      <a   href="images/portfolio/mosaics/M16.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -78,7 +78,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M3A.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M3A.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M3A.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -94,7 +94,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M7.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M7.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M7.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -110,7 +110,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link" >
-                     <img class="example-image" src="images/portfolio/mosaics/M9.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M9.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M9.jpg"   data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -126,7 +126,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M2.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M2.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M2.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -142,7 +142,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M10B.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M10B.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M10B.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -158,7 +158,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M18.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M18.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M18.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -174,7 +174,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link" >
-                     <img class="example-image" src="images/portfolio/mosaics/M6A.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M6A.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M6A.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -190,7 +190,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M5.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M5.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M5.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -206,7 +206,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M3D.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M3D.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M3D.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -222,7 +222,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M22.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M22.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M22.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -238,7 +238,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M13.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M13.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M13.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -254,7 +254,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M1C.JPG" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M1C.JPG" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M1C.JPG" data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -270,7 +270,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M1B.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M1B.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M1B.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -286,7 +286,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link" >
-                     <img class="example-image" src="images/portfolio/mosaics/M20.JPG" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M20.JPG" alt=""/>
                      </a>
                      <a  href="images/portfolio/mosaics/M20.JPG" data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -302,7 +302,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M4.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M4.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M4.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -318,7 +318,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M23A.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M23A.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M23A.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -334,7 +334,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M15.jpg" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M15.jpg" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M15.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>
@@ -350,7 +350,7 @@ description: |
                <div class="portfolio-item-content">
                   <div class="item-thumbnail">
                      <a class="example-image-link"  >
-                     <img class="example-image" src="images/portfolio/mosaics/M24.JPG" alt=""/>
+                     <img class="example-image" src="images/portfolio/mosaics/small/M24.JPG" alt=""/>
                      </a>
                      <a href="images/portfolio/mosaics/M24.JPG"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
                   </div>

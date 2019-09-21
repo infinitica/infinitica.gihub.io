@@ -1,7 +1,7 @@
 ---
 layout: static
 title: About us
-subtitle: Breadcrumb sub title
+subtitle: We are a Calgary based firm
 pagename: About Us
 id: immigration
 main_image: /images/banner.jpg

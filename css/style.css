@@ -2,6 +2,7 @@
 body{font-family:'Open Sans',sans-serif;font-weight:400;font-style:normal;font-size:14px}
 .read-more-wrapper a.like-count:hover{color:#000!important}
 .img{max-width:100%;transition:all .3s ease-out 0}
+.copy-right p a {text-decoration: underline;}
 .intro-sec .about-me-img.text-right img{width:100%;border:10px solid #fff}
 .intro-sec .about-me-text{margin-top:30px}
 .intro-sec .about-me-img.text-right{width:100%}
@@ -12,7 +13,7 @@ body{font-family:'Open Sans',sans-serif;font-weight:400;font-style:normal;font-s
 .wrap-div{float:left;width:100%}
 ul.filter_tag li{display:inline-block}
 ul.filter_tag{float:left;width:100%;margin-bottom:40px;text-align:center}
-ul.filter_tag li a{color:#2c2d2e;padding:5px 10px;font-size:12px;text-transform:uppercase}
+ul.filter_tag li a{color:#2c2d2e;padding:5px 10px;font-size:12px;text-transform:uppercase;font-weight: 600;}
 .filter_tag li.active a{background:#c8775c;color:#fff!important}
 .contact-widget-wrap{padding:40px 30px 10px!important;background-color:#fff;-webkit-box-shadow:0 1px 4px 0 rgba(0,0,0,0.37);box-shadow:0 1px 4px 0 rgba(0,0,0,0.37);border-top:7px solid #ed218d;border-radius:5px;float:left;width:100%}
 .contact-widget-wrap .social-bookmark-area>ul{float:left;width:100%;margin:15px 0 30px}
@@ -164,7 +165,7 @@ label{color:#737272;cursor:pointer;font-size:14px;font-weight:400}
 .blog-single-slide{background:#fff none repeat scroll 0 0;border:1px solid #f0f0f0;box-shadow:0 2px 3px 0 #f0f0f0;padding:20px}
 .blog-single-slide img{width:100%}
 .slider-active-5 .slick-dots{bottom:-40px;padding:0;text-align:center}
-.wpsuptr-standard-row{padding:120px 0}
+.wpsuptr-standard-row{padding:60px 0}
 .portfolio-not-full.portfolio-gutter{margin-left:-10px;margin-right:-10px}
 .portfolio-gutter .portfolio-item{padding:0 10px;margin-bottom:20px}
 .portfolio-item{float:left}
@@ -335,7 +336,7 @@ blockquote{border-left:medium none;font-style:italic;margin:0 0 15px;padding:15p
 .input-field{float:left;padding:0 10px;width:33.3333%}
 .media-body .button{margin-bottom:10px}
 .media-list>li:last-child .media-body .button{margin-bottom:0}
-.breadcrumb-area{padding:50px 0}
+.breadcrumb-area{padding:40px 0}
 .breadcrumb-text-wrapper{display:inline-block}
 .breadcrumb-content .page-name{display:block;font-size:24px;font-weight:700;margin:0 0 5px}
 .breadcrumb-text-wrapper>p{margin:0}
@@ -520,7 +521,7 @@ blockquote{border-left:medium none;font-style:italic;margin:0 0 15px;padding:15p
 .copy-right a{color:#b3959d}
 .copy-right a:hover{color:#fff}
 .wpsuptr-send-message{margin-top:8px;margin-bottom:0}
-.footer-top-2{padding:100px 0}
+.footer-top-2{padding:50px 0}
 .footer-style-two .social-bookmark-area>ul{float:none;margin-top:30px;text-align:center}
 .footer-style-two .social-bookmark-area li{border-left:1px solid #e5e5e5;padding:0 20px}
 .footer-style-two .social-bookmark-area li:first-child{border-left:medium none}

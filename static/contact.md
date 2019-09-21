@@ -1,7 +1,7 @@
 ---
 layout: static
 title: Contact Us
-subtitle: Breadcrumb sub title
+subtitle: Here are all the ways to reach us
 pagename: Contact Us
 permalink: contact.html
 main_image: /images/banner.jpg

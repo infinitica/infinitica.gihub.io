@@ -2,7 +2,7 @@
 layout: static
 id: immigration
 title: Gallery
-subtitle: Breadcrumb sub title
+subtitle: A Range Of Industrial, Co-Operate And Gifting Customised Products
 pagename: Gallery
 main_image: /images/banner.jpg
 permalink: pettags.html
