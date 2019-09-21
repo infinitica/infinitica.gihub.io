@@ -8,7 +8,7 @@ body {
     font-style: normal;
     font-size: 14px;
 }
-.post-action-btn a.like-count:hover {
+.read-more-wrapper a.like-count:hover {
     color: #000!important;
 }
 .img {
