@@ -66,9 +66,6 @@
     .wpsuptr-single-slider {
         padding: 250px 0;
     }
-    .slide-two {
-        background: rgba(0, 0, 0, 0) url("../img/slider/1.jpg") repeat scroll center center / cover;
-    }
     .slider-style-four .wpsuptr-slider-content>h2 {
         font-size: 84px;
     }
@@ -209,9 +206,6 @@
     .fixed-header-space {
         height: 73px;
     }
-    .slide-two {
-        background: rgba(0, 0, 0, 0) url("../img/slider/1.jpg") repeat scroll center center / cover;
-    }
     .wpsuptr-single-slider::before {
         background: rgba(255, 255, 255, 0.7) none repeat scroll 0 0;
         content: "";
@@ -220,9 +214,6 @@
         position: absolute;
         top: 0;
         width: 100%;
-    }
-    .slide-two {
-        background: rgba(0, 0, 0, 0) url("../img/slider/1.jpg") repeat scroll center center / cover;
     }
     .wpsuptr-slider-content>h2 {
         font-size: 30px;
@@ -529,15 +520,12 @@
         top: 0;
         width: 100%;
     }
-    .slide-two {
-        background: rgba(0, 0, 0, 0) url("../img/slider/1.jpg") repeat scroll center center / cover;
-    }
     .wpsuptr-slider-content>h2 {
         font-size: 24px;
         line-height: 30px;
     }
     .fixed-header-space {
-        height: 74px;
+        height: 115px;
     }
     .col-md-4.col-sm-6:nth-child(3) .grid-blog-post {
         margin-bottom: 0;
