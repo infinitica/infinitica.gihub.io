@@ -140,7 +140,7 @@ description: |
             <div class="col-md-4 col-sm-6">
                 <article class="grid-blog-post">
                     <div class="post-thumbnail">
-                        <a href="#"><img src="images/portfolio/trophies/small/T10.jpg" alt=""></a>
+                        <img src="images/portfolio/trophies/small/T10.jpg" alt="">
                     </div>
                     <div class="post-content">
                         <div class="post-content-inner">
@@ -171,7 +171,7 @@ description: |
             <div class="col-md-4 col-sm-6">
                 <article class="grid-blog-post">
                     <div class="post-thumbnail">
-                        <a href="#"><img src="images/portfolio/trophies/small/T5.jpg" alt=""></a>
+                        <img src="images/portfolio/trophies/small/T5.jpg" alt="">
                     </div>
                     <div class="post-content">
                         <div class="post-content-inner">
@@ -202,7 +202,7 @@ description: |
             <div class="col-md-4 col-sm-6 -sm">
                 <article class="grid-blog-post">
                     <div class="post-thumbnail">
-                        <a href="#"><img src="images/portfolio/trophies/small/T12.jpg" alt=""></a>
+                        <img src="images/portfolio/trophies/small/T12.jpg" alt="">
                     </div>
                     <div class="post-content">
                         <div class="post-content-inner">
