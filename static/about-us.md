@@ -124,79 +124,103 @@ description: |
           </div>
       </div>
   </div>
-<div class="wpsuptr-standard-row gray-bg warp-div">
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-12">
-                <div class="section-title text-center">
-                    <h2 class="area-title">Latest Posts</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi tempora veritatis
-                        nemo
-                        aut ea iusto eos est expedita, quas ab adipisci.</p>
-                </div>
+<div class="wpsuptr-standard-row gray-bg warp-div latest_post">
+   <div class="container">
+      <div class="row">
+         <div class="col-xs-12">
+            <div class="section-title text-center">
+               <h2 class="area-title">Latest Posts</h2>
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi tempora veritatis
+                  nemo
+                  aut ea iusto eos est expedita, quas ab adipisci.
+               </p>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-md-4 col-sm-6">
-                <article class="grid-blog-post">
-                    <div class="post-thumbnail">
-                        <img src="images/portfolio/trophies/small/T10.jpg" alt="">
-                    </div>
-                    <div class="post-content">
-                        <div class="post-content-inner">
-                            <h3>TITLE</h3>
-                            <ul class="meta-info">
-                                <li><a href="#">Admin</a></li>
-                                <li><a href="#">20 Jan, 2070</a></li>
-                                <li><a href="#">Graphic</a></li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea,
-                                quis
-                                magnam deserunt eius incidunt repellat molestiae maiores, quidem cumque!</p>
-                        </div>
-                    </div>
-                </article>
+         </div>
+      </div>
+   </div>
+   <div class="container">
+      <div
+         class="portfolio portfolio-gutter portfolio-style-2 portfolio-masonry portfolio-not-full portfolio-4-column wrap-div">
+         <div class="portfolio-item">
+            <div class="portfolio-item-content">
+               <div class="item-thumbnail">
+                  <a class="example-image-link" >
+                  <img class="example-image" src="images/portfolio/fwdcategories/HOUSING%20NUMBER%20PLAQUES/HN15.jpg" alt=""/>
+                  </a>
+                  <a href="images/portfolio/fwdcategories/HOUSING%20NUMBER%20PLAQUES/HN15.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
+               </div>
+               <div class="portfolio-description">
+                  <h4>HN15</h4>
+                  <ul class="portfolio-category">
+                     <li>Rectangular House Number Plaque. Size 8 x 11 inch. Double layer Premium Model. Size and colour customizable.</li>
+                  </ul>
+               </div>
             </div>
-            <div class="col-md-4 col-sm-6">
-                <article class="grid-blog-post">
-                    <div class="post-thumbnail">
-                        <img src="images/portfolio/trophies/small/T5.jpg" alt="">
-                    </div>
-                    <div class="post-content">
-                        <div class="post-content-inner">
-                            <h3>TITLE</h3>
-                            <ul class="meta-info">
-                                <li><a href="#">Admin</a></li>
-                                <li><a href="#">20 Jan, 2070</a></li>
-                                <li><a href="#">Graphic</a></li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea,
-                                quis
-                                magnam deserunt eius incidunt repellat molestiae maiores, quidem cumque!</p>
-                        </div>
-                    </div>
-                </article>
+         </div>
+         <div class="portfolio-item">
+            <div class="portfolio-item-content">
+               <div class="item-thumbnail">
+                  <a class="example-image-link"  >
+                  <img class="example-image" src="images/portfolio/fwdcategories/HOUSING%20NUMBER%20PLAQUES/HN9.jpg" alt=""/>
+                  </a>
+                  <a href="images/portfolio/fwdcategories/HOUSING%20NUMBER%20PLAQUES/HN9.jpg" data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
+               </div>
+               <div class="portfolio-description">
+                  <h4>HN9</h4>
+                  <ul class="portfolio-category">
+                     <li>Personalised Housing Number Plaque. Size 9 x 12 inch.</li>
+                  </ul>
+               </div>
             </div>
-            <div class="col-md-4 col-sm-6 -sm">
-                <article class="grid-blog-post">
-                    <div class="post-thumbnail">
-                        <img src="images/portfolio/trophies/small/T12.jpg" alt="">
-                    </div>
-                    <div class="post-content">
-                        <div class="post-content-inner">
-                            <h3>TITLE</h3>
-                            <ul class="meta-info">
-                                <li><a href="#">Admin</a></li>
-                                <li><a href="#">20 Jan, 2070</a></li>
-                                <li><a href="#">Graphic</a></li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea,
-                                quis
-                                magnam deserunt eius incidunt repellat molestiae maiores, quidem cumque!</p>
-                        </div>
-                    </div>
-                </article>
+         </div>
+         <div class="portfolio-item">
+            <div class="portfolio-item-content">
+               <div class="item-thumbnail">
+                  <a class="example-image-link"  >
+                  <img class="example-image" src="images/clock.jpg" alt=""/>
+                  </a>
+                  <a href="images/clock.jpg"  data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
+               </div>
+               <div class="portfolio-description">
+                  <h4>WC1</h4>
+                  <ul class="portfolio-category">
+                     <li>Wall clock available in various shapes and sizes. Standard size 10 x 12 inch.</li>
+                  </ul>
+               </div>
             </div>
-        </div>
-    </div>
+         </div>
+         <div class="portfolio-item">
+            <div class="portfolio-item-content">
+               <div class="item-thumbnail">
+                  <a class="example-image-link" >
+                  <img class="example-image" src="images/portfolio/fwdcategories/Wall Decors/HD6.jpg" alt=""/>
+                  </a>
+                  <a href="images/portfolio/fwdcategories/Wall Decors/HD6.jpg"   data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
+               </div>
+               <div class="portfolio-description">
+                  <h4>HD6</h4>
+                  <ul class="portfolio-category">
+                     <li>Personailsed home decor for your wall. Available in various shapes and sizes. Premium quality finishing. </li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         <div class="portfolio-item">
+            <div class="portfolio-item-content">
+               <div class="item-thumbnail">
+                  <a class="example-image-link"  >
+                  <img class="example-image" src="images/portfolio/fwdcategories/HOUSING%20NUMBER%20PLAQUES/HN18.jpg" alt=""/>
+                  </a>
+                  <a href="images/portfolio/fwdcategories/HOUSING%20NUMBER%20PLAQUES/HN18.jpg" data-lightbox="example-set" data-title="" class="button" data-motafobox="roadtrip"><i class="ti-zoom-in"></i></a>
+               </div>
+               <div class="portfolio-description">
+                  <h4>HN18</h4>
+                  <ul class="portfolio-category">
+                     <li>Square shaped House Number Plaque Size 10 x 10 inch. Premium quality Acrylic and metallic material used.</li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
 </div>

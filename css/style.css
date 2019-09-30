@@ -8,6 +8,11 @@ body{font-family:'Open Sans',sans-serif;font-weight:400;font-style:normal;font-s
 .intro-sec .about-me-img.text-right{width:100%}
 .intro-sec{padding:40px 0}
 .theinfinitica-h2{font-size:26px;font-weight:700}
+.latest_post .portfolio-description li {
+    color: #737272;
+    letter-spacing: .3px;
+    margin-bottom: 20px;
+}
 .p-0{padding:0!important}
 .featured-img img{width:100%}
 .wrap-div{float:left;width:100%}
@@ -217,7 +222,7 @@ label{color:#737272;cursor:pointer;font-size:14px;font-weight:400}
 .portfolio-style-2 .portfolio-description>h4{font-size:18px;font-weight:600;margin:0 0 5px}
 .portfolio-style-2 .item-thumbnail::before{background:rgba(252,232,225,0.9);border-radius:100%;bottom:-100px;content:"";height:100px;left:-100px;position:absolute;transition:all .4s cubic-bezier(0.3,0.57,0.56,1) 0;width:100px}
 .portfolio-style-2 .item-thumbnail{position:relative;overflow:hidden}
-.portfolio-style-2 .portfolio-item:hover .item-thumbnail::before{bottom:0;right:0;transform:scale(10);transition-delay:0}
+.portfolio-style-2 .portfolio-item:hover .item-thumbnail::before{bottom:0;right:0;transform:scale(10);transition:all .3s linear;}
 .portfolio-style-2.portfolio-2-column .portfolio-item:hover .item-thumbnail::before{transform:scale(15)}
 .item-thumbnail .button{padding:0;bottom:20px;opacity:0;position:absolute;right:10px;transition:all .3s ease 0;visibility:hidden;z-index:1;background:#fff;color:#b3959d;width:50px;display:block;height:50px;line-height:50px;text-align:center;font-size:16px;border-radius:100%}
 .portfolio-item:hover .item-thumbnail .button{opacity:1;transform:translateX(-20px);visibility:visible}

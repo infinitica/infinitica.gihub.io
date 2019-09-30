@@ -41,6 +41,8 @@
     <!-- new3 -->
     <link href="/css/elements.css" rel="stylesheet" async="async">
     <link rel="stylesheet" href="../css/lightbox.min.css"/>
+    <link rel="stylesheet" href="../css/slick.css"/>
+    <link rel="stylesheet" href="../css/slick-theme.css"/>
     <link href="/css/style.css?{{ site.data['hash'] }}" rel="stylesheet" async="async"> 
     <link href="/css/responsive.css?{{ site.data['hash'] }}" rel="stylesheet" async="async">
 
@@ -50,6 +52,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" ></script>   
 
     <!-- new3 -->
+    <script src="/js/slick.js?{{ site.data['hash'] }}"  type="application/javascript"></script>
     <script src="/js/plugins.js?{{ site.data['hash'] }}"  type="application/javascript"></script>
     <script src="/js/main.js?{{ site.data['hash'] }}"  type="application/javascript"></script>
     <script src="/js/lightbox.min.js?{{ site.data['hash'] }}"  type="application/javascript"></script>
@@ -58,6 +61,12 @@
         $('.meanmenu-reveal').click(function(){
             $('.mean-bar nav ul').toggle(400);
         });
+        $(".regular").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 3
+      });
     });
        
     </script>
