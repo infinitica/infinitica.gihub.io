@@ -130,10 +130,6 @@ description: |
          <div class="col-xs-12">
             <div class="section-title text-center">
                <h2 class="area-title">Latest Posts</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi tempora veritatis
-                  nemo
-                  aut ea iusto eos est expedita, quas ab adipisci.
-               </p>
             </div>
          </div>
       </div>
