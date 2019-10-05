@@ -12,6 +12,11 @@
     }
 }
 
+@media (max-width: 1200px) {
+    iframe{
+        width: 100%;
+    }
+}
 /* -------------------------------------------------
   Laptop Screen 
 ---------------------------------------------------*/
@@ -202,9 +207,6 @@
     }
     .wpsuptr-single-slider {
         padding: 220px 0;
-    }
-    .fixed-header-space {
-        height: 73px;
     }
     .wpsuptr-single-slider::before {
         background: rgba(255, 255, 255, 0.7) none repeat scroll 0 0;
