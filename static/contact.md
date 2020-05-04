@@ -49,7 +49,7 @@ description: |
                                        <h6 style="margin:  0; font-size:12px; font-weight:bold;">
                                                 Pritpal Singh
                                        </h6>
-                                      <p>+1 (403) 607-3933</p>
+                                      <p>+1 (403) 554-5680</p>
                                   </div>
                               </div>
                               <div class="social-bookmark-area contact-sub-heading ">
